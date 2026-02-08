@@ -1,102 +1,502 @@
 [
-  { "name": "Foam Roller Thoracic Extension", "tool": "Foam Roller", "desc": "Roller under mid-back. Hands behind head. Lean back over the roller. Breathe." },
-  { "name": "Foam Roller Lats Smash", "tool": "Foam Roller", "desc": "Lie on your side with the roller in your armpit. Roll up and down slowly." },
-  { "name": "Foam Roller Glute Roll", "tool": "Foam Roller", "desc": "Sit on the roller. Cross one ankle over the knee. Lean into the side of the top leg." },
-  { "name": "Foam Roller Quad Roll", "tool": "Foam Roller", "desc": "Lie face down with the roller under your thighs. Use your arms to move back and forth." },
-  { "name": "Foam Roller Adductor Roll", "tool": "Foam Roller", "desc": "Lie on your stomach. Place one leg out to the side with the roller under the inner thigh." },
-  { "name": "Foam Roller IT Band Smash", "tool": "Foam Roller", "desc": "Side-lying. Roller on the side of the thigh. Move from hip to just above the knee." },
-  { "name": "Foam Roller Calf Roll", "tool": "Foam Roller", "desc": "Sit with legs out. Roller under calves. Lift hips and move back and forth." },
-  { "name": "Foam Roller Shin Roll", "tool": "Foam Roller", "desc": "On all fours. Roller under shins. Roll from ankle to just below the knee." },
-  { "name": "Foam Roller Hamstring Roll", "tool": "Foam Roller", "desc": "Sit on floor. Roller under hamstrings. Use hands to roll from glutes to knees." },
-  { "name": "Foam Roller Lower Back", "tool": "Foam Roller", "desc": "Support your weight with hands/feet. Gently roll the lower back. Stop if painful." },
-  { "name": "Lacrosse Ball Pec Smash", "tool": "Lacrosse Ball", "desc": "Lean against a wall with the ball between the wall and your chest muscle." },
-  { "name": "Lacrosse Ball Upper Traps", "tool": "Lacrosse Ball", "desc": "Lean against a wall. Ball between wall and the meaty part of your shoulder/neck." },
-  { "name": "Lacrosse Ball Glute Medius", "tool": "Lacrosse Ball", "desc": "Side of the hip. Find the tender spot with the ball and sink your weight in." },
-  { "name": "Lacrosse Ball Posterior Capsule", "tool": "Lacrosse Ball", "desc": "Lie on your back. Ball behind the shoulder blade. Move your arm across your body." },
-  { "name": "Lacrosse Ball Foot Arch Smash", "tool": "Lacrosse Ball", "desc": "Stand on the ball. Roll from heel to toes. Apply pressure." },
-  { "name": "Lacrosse Ball T-Spine Peanut", "tool": "Lacrosse Ball", "desc": "Two balls together. Lie on them so they sit on either side of your spine." },
-  { "name": "Lacrosse Ball Forearm Release", "tool": "Lacrosse Ball", "desc": "Place ball on table. Press forearm into it and move your wrist in circles." },
-  { "name": "Lacrosse Ball Jaw Release", "tool": "Lacrosse Ball", "desc": "Hold ball in hand. Gently rub the jaw muscle in circular motions." },
-  { "name": "Lacrosse Ball Bicep Smash", "tool": "Lacrosse Ball", "desc": "Ball between your arm and a wall. Lean in and rotate your palm." },
-  { "name": "Lacrosse Ball TFL Release", "tool": "Lacrosse Ball", "desc": "Ball on the front-side of your hip. Lie face down and breathe." },
-  { "name": "Banded Shoulder Dislocates", "tool": "Resistance Band", "desc": "Hold band wide. Arms straight. Bring it over your head to your lower back." },
-  { "name": "Banded Face Pulls", "tool": "Resistance Band", "desc": "Anchor band at eye level. Pull toward your forehead, pulling the band apart." },
-  { "name": "Banded Pull-Aparts", "tool": "Resistance Band", "desc": "Hold band in front of chest. Pull arms out to the sides." },
-  { "name": "Banded Hip Distraction", "tool": "Resistance Band", "desc": "Anchor band to a post. Loop around hip. Step back to create tension. Lunge." },
-  { "name": "Banded Ankle Mobilization", "tool": "Resistance Band", "desc": "Band around ankle joint. Anchor behind you. Drive knee forward." },
-  { "name": "Banded Overhead Lat Stretch", "tool": "Resistance Band", "desc": "Anchor band high. Loop hand through. Let the band pull your shoulder." },
-  { "name": "Banded Hamstring Stretch", "tool": "Resistance Band", "desc": "Lie on back. Loop band around foot. Pull leg toward you." },
-  { "name": "Banded Hip Flexor Stretch", "tool": "Resistance Band", "desc": "Lunge position. Band pulls hip forward from behind. Squeeze glute." },
-  { "name": "Banded No-Money Stretch", "tool": "Resistance Band", "desc": "Elbows at sides, palms up. Rotate hands out away from each other." },
-  { "name": "Banded Cat-Cow", "tool": "Resistance Band", "desc": "Band across your back, held by hands. Perform Cat-Cow against resistance." },
-  { "name": "Banded External Rotation", "tool": "Resistance Band", "desc": "Anchor at waist height. Pull band away from your body, elbow at 90." },
-  { "name": "Banded Internal Rotation", "tool": "Resistance Band", "desc": "Anchor at waist height. Pull band across your stomach, elbow tucked." },
-  { "name": "Banded Monster Walk", "tool": "Resistance Band", "desc": "Band around ankles. Half-squat. Step sideways with tension." },
-  { "name": "Banded Clamshells", "tool": "Resistance Band", "desc": "Band around knees. Lie on side, knees bent. Lift top knee." },
-  { "name": "Banded Bird-Dog", "tool": "Resistance Band", "desc": "Loop band around foot and opposite hand. Extend both." },
-  { "name": "Banded Psoas March", "tool": "Resistance Band", "desc": "Band around feet. Lie on back. Pull one knee to chest." },
-  { "name": "Banded Shoulder Press", "tool": "Resistance Band", "desc": "Stand on band. Press arms overhead. Full reach at the top." },
-  { "name": "Banded Good Mornings", "tool": "Resistance Band", "desc": "Stand on band, loop over neck. Hinge at hips. Stretch hamstrings." },
-  { "name": "Banded Tricep Extensions", "tool": "Resistance Band", "desc": "Anchor high. Pull band down, locking out elbows." },
-  { "name": "Banded Wall Slides", "tool": "Resistance Band", "desc": "Loop band around wrists. Perform wall slides, pushing out against band." },
-  { "name": "Kettlebell Windmill", "tool": "Kettlebell", "desc": "KB held overhead. Hinge hip out and touch the floor with free hand." },
-  { "name": "Kettlebell Goblet Squat Hold", "tool": "Kettlebell", "desc": "Hold KB at chest. Deep squat. Use elbows to push knees apart." },
-  { "name": "Kettlebell Halo", "tool": "Kettlebell", "desc": "Hold KB upside down. Circle it around your head close to your neck." },
-  { "name": "Kettlebell Bottoms-Up Press", "tool": "Kettlebell", "desc": "Hold KB upside down. Press slowly. Forces shoulder stability." },
-  { "name": "Kettlebell Around the World", "tool": "Kettlebell", "desc": "Stand tall. Pass the KB around your waist hand to hand." },
-  { "name": "Kettlebell Figure 8", "tool": "Kettlebell", "desc": "Half-squat. Pass KB between and around legs in a figure-8." },
-  { "name": "Kettlebell Prying Lunge", "tool": "Kettlebell", "desc": "Lunge position. Hold KB inside front leg. Move hips in circles." },
-  { "name": "Kettlebell Straight Leg Deadlift", "tool": "Kettlebell", "desc": "Hold KB with both hands. Hinge at hips with straight legs." },
-  { "name": "Kettlebell Arm Bar", "tool": "Kettlebell", "desc": "Lie on back, press KB up. Roll onto your side, keep arm vertical." },
-  { "name": "Dumbbell Cuban Press", "tool": "Dumbbell", "desc": "Upright row to 90, rotate weights up, then press. Great for shoulders." },
-  { "name": "Dumbbell Chest Supported Row", "tool": "Dumbbell", "desc": "Lie face down on incline bench. Pull weights back, squeezing shoulder blades." },
-  { "name": "Dumbbell Pullover", "tool": "Dumbbell", "desc": "Lie on bench. Hold one DB with both hands. Lower behind head, then pull back up." },
-  { "name": "Dumbbell Wrist Curls", "tool": "Dumbbell", "desc": "Rest forearm on thigh. Curl weight up with wrist. Then flip for extensions." },
-  { "name": "Dumbbell Goblet Lateral Lunge", "tool": "Dumbbell", "desc": "Hold DB at chest. Step wide and sink into one hip. Keep other leg straight." },
-  { "name": "Stick Shoulder Pass-Throughs", "tool": "PVC Pipe/Stick", "desc": "Hold stick wide. Keep arms straight. Rotate from hips to behind the back." },
-  { "name": "Stick Overhead Squat", "tool": "PVC Pipe/Stick", "desc": "Hold stick wide overhead. Squat deep while keeping stick behind ears." },
-  { "name": "Stick Good Mornings", "tool": "PVC Pipe/Stick", "desc": "Stick across shoulders. Hinge at hips with flat back. Stretch hamstrings." },
-  { "name": "Stick Side Leans", "tool": "PVC Pipe/Stick", "desc": "Hold stick overhead. Lean to one side, pushing stick away to stretch the lat." },
-  { "name": "Stick Behind Back Rotation", "tool": "PVC Pipe/Stick", "desc": "Stick behind back, hooked in elbows. Rotate torso left and right slowly." },
-  { "name": "Bench T-Spine Extension", "tool": "Bench", "desc": "Elbows on bench, hands behind head. Drop head and chest toward the floor." },
-  { "name": "Bench Hip Flexor Stretch", "tool": "Bench", "desc": "One foot back on bench, other leg forward. Drop hips down and tuck pelvis." },
-  { "name": "Bench Pigeon Stretch", "tool": "Bench", "desc": "Place one leg 'ㄱ' shape on the bench. Lean forward to stretch the glute." },
-  { "name": "Bench Dip Shoulder Stretch", "tool": "Bench", "desc": "Sit on edge. Hands on bench. Slide off and let shoulders stretch in extension." },
-  { "name": "Bench Single Leg Squat", "tool": "Bench", "desc": "Stand in front of bench. Squat on one leg until butt touches bench." },
-  { "name": "Doorway Bicep Stretch", "tool": "Door Frame", "desc": "Hand on frame, thumb down. Turn away from the arm. Stretch bicep/chest." },
-  { "name": "Doorway Overhead Stretch", "tool": "Door Frame", "desc": "Both hands high on frame. Lean your chest through the door." },
-  { "name": "Doorway Single Arm Row", "tool": "Door Frame", "desc": "Hold frame. Lean back and pull yourself in. Focus on shoulder blade." },
-  { "name": "Towel Neck Pull", "tool": "Towel", "desc": "Towel behind neck. Pull ends forward while pushing head back into it." },
-  { "name": "Towel Shoulder Stretch", "tool": "Towel", "desc": "One hand over shoulder, one behind back. Use towel to pull hands together." },
-  { "name": "Towel Foot Crunch", "tool": "Towel", "desc": "Sit down. Use toes to scrunch up a towel on the floor. Foot mobility." },
-  { "name": "Yoga Block Adductor Squeeze", "tool": "Yoga Block", "desc": "Place block between knees. Squeeze and hold while lying on your back." },
-  { "name": "Yoga Block Calf Raise", "tool": "Yoga Block", "desc": "Stand with balls of feet on block. Drop heels low, then press high." },
-  { "name": "Yoga Block Supported Fish", "tool": "Yoga Block", "desc": "Block under mid-back, another under head. Lie back and open chest." },
-  { "name": "Barbell Quad Smash", "tool": "Barbell", "desc": "Sit on floor. Roll a barbell over your quads like a heavy rolling pin." },
-  { "name": "Barbell Adductor Smash", "tool": "Barbell", "desc": "Lie on stomach. Place end of barbell on inner thigh and breathe." },
-  { "name": "Barbell Forearm Smash", "tool": "Barbell", "desc": "Rest forearm on a bench. Roll the barbell over it to release tension." },
-  { "name": "Box Step-Up with High Knee", "tool": "Box", "desc": "Step up on box. Drive opposite knee to chest. Focus on stability." },
-  { "name": "Box Glute Stretch", "tool": "Box", "desc": "Similar to pigeon stretch but on a higher surface. Lean in deep." },
-  { "name": "Box Deep Squat", "tool": "Box", "desc": "Squat with heels on the edge of a low box. Helps with upright posture." },
-  { "name": "Wall-Supported Hip Airplanes", "tool": "Wall", "desc": "Hand on wall. Stand on one leg. Rotate your hips open and closed." },
-  { "name": "Wall-Supported Calf Raise", "tool": "Wall", "desc": "Leaning against wall. Single leg calf raises. Focus on full range." },
-  { "name": "Wall Finger Walks", "tool": "Wall", "desc": "Stand side to wall. Use fingers to 'walk' your arm as high as possible." },
-  { "name": "Medicine Ball Chest Smash", "tool": "Medicine Ball", "desc": "Lie face down on the ball, placing it on your pec. Roll around." },
-  { "name": "Medicine Ball Russian Twists", "tool": "Medicine Ball", "desc": "Sit, feet up. Move ball side to side. Focus on thoracic rotation." },
-  { "name": "Medicine Ball Overhead Reach", "tool": "Medicine Ball", "desc": "Hold ball. Reach high and slightly back. Stretch front chain." },
-  { "name": "Suspension Trainer Chest Stretch", "tool": "TRX", "desc": "Hold handles. Lean forward into a 'T' or 'Y' shape. Deep chest stretch." },
-  { "name": "Suspension Trainer Hip Drop", "tool": "TRX", "desc": "Stand side to anchor. Handles overhead. Drop hips away from anchor." },
-  { "name": "Suspension Trainer Low Row", "tool": "TRX", "desc": "Lean back. Pull yourself up. Focus on retracting shoulder blades." },
-  { "name": "Step-Down (Heel Touch)", "tool": "Step", "desc": "Stand on a step. Lower one foot to touch floor with heel. Control knee." },
-  { "name": "Step Calf Stretch", "tool": "Step", "desc": "Heel off the edge. Let gravity pull the heel down. Hold for 30s." },
-  { "name": "Mini-Band Shoulder Pulses", "tool": "Mini-Band", "desc": "Band around wrists. Arms straight in front. Pulse outward quickly." },
-  { "name": "Mini-Band Glute Kickbacks", "tool": "Mini-Band", "desc": "Band around ankles. Kick one leg back. Squeeze glute at top." },
-  { "name": "Mini-Band Lateral Shuffles", "tool": "Mini-Band", "desc": "Band around knees. Stay low. Take wide steps to the side." },
-  { "name": "Sandbag Shoulder Clean", "tool": "Sandbag", "desc": "Lift bag to one shoulder. Squat. Switch shoulders. Forces stability." },
-  { "name": "Sandbag Bear Hug Squat", "tool": "Sandbag", "desc": "Hug bag to chest. Squat deep. Bag pulls you forward, keeping you upright." },
-  { "name": "Slant Board Squat", "tool": "Slant Board", "desc": "Squat on the board (toes up or down). Targets ankle/knee." },
-  { "name": "Slant Board Calf Stretch", "tool": "Slant Board", "desc": "Stand on board (toes up). Lean forward. Intense calf stretch." },
-  { "name": "Parallel Bar Support Hold", "tool": "Dip Bars", "desc": "Push yourself up. Hold with straight arms. Depress shoulders." },
-  { "name": "Parallel Bar L-Sit Tuck", "tool": "Dip Bars", "desc": "In support hold, tuck knees to chest. Hold. Hip flexor strength." },
-  { "name": "Pull-Up Bar Passive Hang", "tool": "Pull-Up Bar", "desc": "Just hang. Let gravity decompress spine and stretch lats." }
+  {
+    "name": "Foam Roller Thoracic Extension",
+    "tool": "Foam Roller",
+    "desc": "Roller under mid-back. Hands behind head. Lean back over the roller. Breathe."
+  },
+  {
+    "name": "Foam Roller Lats Smash",
+    "tool": "Foam Roller",
+    "desc": "Lie on your side with the roller in your armpit. Roll up and down slowly."
+  },
+  {
+    "name": "Foam Roller Glute Roll",
+    "tool": "Foam Roller",
+    "desc": "Sit on the roller. Cross one ankle over the knee. Lean into the side of the top leg."
+  },
+  {
+    "name": "Foam Roller Quad Roll",
+    "tool": "Foam Roller",
+    "desc": "Lie face down with the roller under your thighs. Use your arms to move back and forth."
+  },
+  {
+    "name": "Foam Roller Adductor Roll",
+    "tool": "Foam Roller",
+    "desc": "Lie on your stomach. Place one leg out to the side with the roller under the inner thigh."
+  },
+  {
+    "name": "Foam Roller IT Band Smash",
+    "tool": "Foam Roller",
+    "desc": "Side-lying. Roller on the side of the thigh. Move from hip to just above the knee."
+  },
+  {
+    "name": "Foam Roller Calf Roll",
+    "tool": "Foam Roller",
+    "desc": "Sit with legs out. Roller under calves. Lift hips and move back and forth."
+  },
+  {
+    "name": "Foam Roller Shin Roll",
+    "tool": "Foam Roller",
+    "desc": "On all fours. Roller under shins. Roll from ankle to just below the knee."
+  },
+  {
+    "name": "Foam Roller Hamstring Roll",
+    "tool": "Foam Roller",
+    "desc": "Sit on floor. Roller under hamstrings. Use hands to roll from glutes to knees."
+  },
+  {
+    "name": "Foam Roller Lower Back",
+    "tool": "Foam Roller",
+    "desc": "Support your weight with hands/feet. Gently roll the lower back. Stop if painful."
+  },
+  {
+    "name": "Lacrosse Ball Pec Smash",
+    "tool": "Lacrosse Ball",
+    "desc": "Lean against a wall with the ball between the wall and your chest muscle."
+  },
+  {
+    "name": "Lacrosse Ball Upper Traps",
+    "tool": "Lacrosse Ball",
+    "desc": "Lean against a wall. Ball between wall and the meaty part of your shoulder/neck."
+  },
+  {
+    "name": "Lacrosse Ball Glute Medius",
+    "tool": "Lacrosse Ball",
+    "desc": "Side of the hip. Find the tender spot with the ball and sink your weight in."
+  },
+  {
+    "name": "Lacrosse Ball Posterior Capsule",
+    "tool": "Lacrosse Ball",
+    "desc": "Lie on your back. Ball behind the shoulder blade. Move your arm across your body."
+  },
+  {
+    "name": "Lacrosse Ball Foot Arch Smash",
+    "tool": "Lacrosse Ball",
+    "desc": "Stand on the ball. Roll from heel to toes. Apply pressure."
+  },
+  {
+    "name": "Lacrosse Ball T-Spine Peanut",
+    "tool": "Lacrosse Ball",
+    "desc": "Two balls together. Lie on them so they sit on either side of your spine."
+  },
+  {
+    "name": "Lacrosse Ball Forearm Release",
+    "tool": "Lacrosse Ball",
+    "desc": "Place ball on table. Press forearm into it and move your wrist in circles."
+  },
+  {
+    "name": "Lacrosse Ball Jaw Release",
+    "tool": "Lacrosse Ball",
+    "desc": "Hold ball in hand. Gently rub the jaw muscle in circular motions."
+  },
+  {
+    "name": "Lacrosse Ball Bicep Smash",
+    "tool": "Lacrosse Ball",
+    "desc": "Ball between your arm and a wall. Lean in and rotate your palm."
+  },
+  {
+    "name": "Lacrosse Ball TFL Release",
+    "tool": "Lacrosse Ball",
+    "desc": "Ball on the front-side of your hip. Lie face down and breathe."
+  },
+  {
+    "name": "Banded Shoulder Dislocates",
+    "tool": "Resistance Band",
+    "desc": "Hold band wide. Arms straight. Bring it over your head to your lower back."
+  },
+  {
+    "name": "Banded Face Pulls",
+    "tool": "Resistance Band",
+    "desc": "Anchor band at eye level. Pull toward your forehead, pulling the band apart."
+  },
+  {
+    "name": "Banded Pull-Aparts",
+    "tool": "Resistance Band",
+    "desc": "Hold band in front of chest. Pull arms out to the sides."
+  },
+  {
+    "name": "Banded Hip Distraction",
+    "tool": "Resistance Band",
+    "desc": "Anchor band to a post. Loop around hip. Step back to create tension. Lunge."
+  },
+  {
+    "name": "Banded Ankle Mobilization",
+    "tool": "Resistance Band",
+    "desc": "Band around ankle joint. Anchor behind you. Drive knee forward."
+  },
+  {
+    "name": "Banded Overhead Lat Stretch",
+    "tool": "Resistance Band",
+    "desc": "Anchor band high. Loop hand through. Let the band pull your shoulder."
+  },
+  {
+    "name": "Banded Hamstring Stretch",
+    "tool": "Resistance Band",
+    "desc": "Lie on back. Loop band around foot. Pull leg toward you."
+  },
+  {
+    "name": "Banded Hip Flexor Stretch",
+    "tool": "Resistance Band",
+    "desc": "Lunge position. Band pulls hip forward from behind. Squeeze glute."
+  },
+  {
+    "name": "Banded No-Money Stretch",
+    "tool": "Resistance Band",
+    "desc": "Elbows at sides, palms up. Rotate hands out away from each other."
+  },
+  {
+    "name": "Banded Cat-Cow",
+    "tool": "Resistance Band",
+    "desc": "Band across your back, held by hands. Perform Cat-Cow against resistance."
+  },
+  {
+    "name": "Banded External Rotation",
+    "tool": "Resistance Band",
+    "desc": "Anchor at waist height. Pull band away from your body, elbow at 90."
+  },
+  {
+    "name": "Banded Internal Rotation",
+    "tool": "Resistance Band",
+    "desc": "Anchor at waist height. Pull band across your stomach, elbow tucked."
+  },
+  {
+    "name": "Banded Monster Walk",
+    "tool": "Resistance Band",
+    "desc": "Band around ankles. Half-squat. Step sideways with tension."
+  },
+  {
+    "name": "Banded Clamshells",
+    "tool": "Resistance Band",
+    "desc": "Band around knees. Lie on side, knees bent. Lift top knee."
+  },
+  {
+    "name": "Banded Bird-Dog",
+    "tool": "Resistance Band",
+    "desc": "Loop band around foot and opposite hand. Extend both."
+  },
+  {
+    "name": "Banded Psoas March",
+    "tool": "Resistance Band",
+    "desc": "Band around feet. Lie on back. Pull one knee to chest."
+  },
+  {
+    "name": "Banded Shoulder Press",
+    "tool": "Resistance Band",
+    "desc": "Stand on band. Press arms overhead. Full reach at the top."
+  },
+  {
+    "name": "Banded Good Mornings",
+    "tool": "Resistance Band",
+    "desc": "Stand on band, loop over neck. Hinge at hips. Stretch hamstrings."
+  },
+  {
+    "name": "Banded Tricep Extensions",
+    "tool": "Resistance Band",
+    "desc": "Anchor high. Pull band down, locking out elbows."
+  },
+  {
+    "name": "Banded Wall Slides",
+    "tool": "Resistance Band",
+    "desc": "Loop band around wrists. Perform wall slides, pushing out against band."
+  },
+  {
+    "name": "Kettlebell Windmill",
+    "tool": "Kettlebell",
+    "desc": "KB held overhead. Hinge hip out and touch the floor with free hand."
+  },
+  {
+    "name": "Kettlebell Goblet Squat Hold",
+    "tool": "Kettlebell",
+    "desc": "Hold KB at chest. Deep squat. Use elbows to push knees apart."
+  },
+  {
+    "name": "Kettlebell Halo",
+    "tool": "Kettlebell",
+    "desc": "Hold KB upside down. Circle it around your head close to your neck."
+  },
+  {
+    "name": "Kettlebell Bottoms-Up Press",
+    "tool": "Kettlebell",
+    "desc": "Hold KB upside down. Press slowly. Forces shoulder stability."
+  },
+  {
+    "name": "Kettlebell Around the World",
+    "tool": "Kettlebell",
+    "desc": "Stand tall. Pass the KB around your waist hand to hand."
+  },
+  {
+    "name": "Kettlebell Figure 8",
+    "tool": "Kettlebell",
+    "desc": "Half-squat. Pass KB between and around legs in a figure-8."
+  },
+  {
+    "name": "Kettlebell Prying Lunge",
+    "tool": "Kettlebell",
+    "desc": "Lunge position. Hold KB inside front leg. Move hips in circles."
+  },
+  {
+    "name": "Kettlebell Straight Leg Deadlift",
+    "tool": "Kettlebell",
+    "desc": "Hold KB with both hands. Hinge at hips with straight legs."
+  },
+  {
+    "name": "Kettlebell Arm Bar",
+    "tool": "Kettlebell",
+    "desc": "Lie on back, press KB up. Roll onto your side, keep arm vertical."
+  },
+  {
+    "name": "Dumbbell Cuban Press",
+    "tool": "Dumbbell",
+    "desc": "Upright row to 90, rotate weights up, then press. Great for shoulders."
+  },
+  {
+    "name": "Dumbbell Chest Supported Row",
+    "tool": "Dumbbell",
+    "desc": "Lie face down on incline bench. Pull weights back, squeezing shoulder blades."
+  },
+  {
+    "name": "Dumbbell Pullover",
+    "tool": "Dumbbell",
+    "desc": "Lie on bench. Hold one DB with both hands. Lower behind head, then pull back up."
+  },
+  {
+    "name": "Dumbbell Wrist Curls",
+    "tool": "Dumbbell",
+    "desc": "Rest forearm on thigh. Curl weight up with wrist. Then flip for extensions."
+  },
+  {
+    "name": "Dumbbell Goblet Lateral Lunge",
+    "tool": "Dumbbell",
+    "desc": "Hold DB at chest. Step wide and sink into one hip. Keep other leg straight."
+  },
+  {
+    "name": "Stick Shoulder Pass-Throughs",
+    "tool": "PVC Pipe/Stick",
+    "desc": "Hold stick wide. Keep arms straight. Rotate from hips to behind the back."
+  },
+  {
+    "name": "Stick Overhead Squat",
+    "tool": "PVC Pipe/Stick",
+    "desc": "Hold stick wide overhead. Squat deep while keeping stick behind ears."
+  },
+  {
+    "name": "Stick Good Mornings",
+    "tool": "PVC Pipe/Stick",
+    "desc": "Stick across shoulders. Hinge at hips with flat back. Stretch hamstrings."
+  },
+  {
+    "name": "Stick Side Leans",
+    "tool": "PVC Pipe/Stick",
+    "desc": "Hold stick overhead. Lean to one side, pushing stick away to stretch the lat."
+  },
+  {
+    "name": "Stick Behind Back Rotation",
+    "tool": "PVC Pipe/Stick",
+    "desc": "Stick behind back, hooked in elbows. Rotate torso left and right slowly."
+  },
+  {
+    "name": "Bench T-Spine Extension",
+    "tool": "Bench",
+    "desc": "Elbows on bench, hands behind head. Drop head and chest toward the floor."
+  },
+  {
+    "name": "Bench Hip Flexor Stretch",
+    "tool": "Bench",
+    "desc": "One foot back on bench, other leg forward. Drop hips down and tuck pelvis."
+  },
+  {
+    "name": "Bench Pigeon Stretch",
+    "tool": "Bench",
+    "desc": "Place one leg 'ㄱ' shape on the bench. Lean forward to stretch the glute."
+  },
+  {
+    "name": "Bench Dip Shoulder Stretch",
+    "tool": "Bench",
+    "desc": "Sit on edge. Hands on bench. Slide off and let shoulders stretch in extension."
+  },
+  {
+    "name": "Bench Single Leg Squat",
+    "tool": "Bench",
+    "desc": "Stand in front of bench. Squat on one leg until butt touches bench."
+  },
+  {
+    "name": "Doorway Bicep Stretch",
+    "tool": "Door Frame",
+    "desc": "Hand on frame, thumb down. Turn away from the arm. Stretch bicep/chest."
+  },
+  {
+    "name": "Doorway Overhead Stretch",
+    "tool": "Door Frame",
+    "desc": "Both hands high on frame. Lean your chest through the door."
+  },
+  {
+    "name": "Doorway Single Arm Row",
+    "tool": "Door Frame",
+    "desc": "Hold frame. Lean back and pull yourself in. Focus on shoulder blade."
+  },
+  {
+    "name": "Towel Neck Pull",
+    "tool": "Towel",
+    "desc": "Towel behind neck. Pull ends forward while pushing head back into it."
+  },
+  {
+    "name": "Towel Shoulder Stretch",
+    "tool": "Towel",
+    "desc": "One hand over shoulder, one behind back. Use towel to pull hands together."
+  },
+  {
+    "name": "Towel Foot Crunch",
+    "tool": "Towel",
+    "desc": "Sit down. Use toes to scrunch up a towel on the floor. Foot mobility."
+  },
+  {
+    "name": "Yoga Block Adductor Squeeze",
+    "tool": "Yoga Block",
+    "desc": "Place block between knees. Squeeze and hold while lying on your back."
+  },
+  {
+    "name": "Yoga Block Calf Raise",
+    "tool": "Yoga Block",
+    "desc": "Stand with balls of feet on block. Drop heels low, then press high."
+  },
+  {
+    "name": "Yoga Block Supported Fish",
+    "tool": "Yoga Block",
+    "desc": "Block under mid-back, another under head. Lie back and open chest."
+  },
+  {
+    "name": "Barbell Quad Smash",
+    "tool": "Barbell",
+    "desc": "Sit on floor. Roll a barbell over your quads like a heavy rolling pin."
+  },
+  {
+    "name": "Barbell Adductor Smash",
+    "tool": "Barbell",
+    "desc": "Lie on stomach. Place end of barbell on inner thigh and breathe."
+  },
+  {
+    "name": "Barbell Forearm Smash",
+    "tool": "Barbell",
+    "desc": "Rest forearm on a bench. Roll the barbell over it to release tension."
+  },
+  {
+    "name": "Box Step-Up with High Knee",
+    "tool": "Box",
+    "desc": "Step up on box. Drive opposite knee to chest. Focus on stability."
+  },
+  {
+    "name": "Box Glute Stretch",
+    "tool": "Box",
+    "desc": "Similar to pigeon stretch but on a higher surface. Lean in deep."
+  },
+  {
+    "name": "Box Deep Squat",
+    "tool": "Box",
+    "desc": "Squat with heels on the edge of a low box. Helps with upright posture."
+  },
+  {
+    "name": "Wall-Supported Hip Airplanes",
+    "tool": "Wall",
+    "desc": "Hand on wall. Stand on one leg. Rotate your hips open and closed."
+  },
+  {
+    "name": "Wall-Supported Calf Raise",
+    "tool": "Wall",
+    "desc": "Leaning against wall. Single leg calf raises. Focus on full range."
+  },
+  {
+    "name": "Wall Finger Walks",
+    "tool": "Wall",
+    "desc": "Stand side to wall. Use fingers to 'walk' your arm as high as possible."
+  },
+  {
+    "name": "Medicine Ball Chest Smash",
+    "tool": "Medicine Ball",
+    "desc": "Lie face down on the ball, placing it on your pec. Roll around."
+  },
+  {
+    "name": "Medicine Ball Russian Twists",
+    "tool": "Medicine Ball",
+    "desc": "Sit, feet up. Move ball side to side. Focus on thoracic rotation."
+  },
+  {
+    "name": "Medicine Ball Overhead Reach",
+    "tool": "Medicine Ball",
+    "desc": "Hold ball. Reach high and slightly back. Stretch front chain."
+  },
+  {
+    "name": "Suspension Trainer Chest Stretch",
+    "tool": "TRX",
+    "desc": "Hold handles. Lean forward into a 'T' or 'Y' shape. Deep chest stretch."
+  },
+  {
+    "name": "Suspension Trainer Hip Drop",
+    "tool": "TRX",
+    "desc": "Stand side to anchor. Handles overhead. Drop hips away from anchor."
+  },
+  {
+    "name": "Suspension Trainer Low Row",
+    "tool": "TRX",
+    "desc": "Lean back. Pull yourself up. Focus on retracting shoulder blades."
+  },
+  {
+    "name": "Step-Down (Heel Touch)",
+    "tool": "Step",
+    "desc": "Stand on a step. Lower one foot to touch floor with heel. Control knee."
+  },
+  {
+    "name": "Step Calf Stretch",
+    "tool": "Step",
+    "desc": "Heel off the edge. Let gravity pull the heel down. Hold for 30s."
+  },
+  {
+    "name": "Mini-Band Shoulder Pulses",
+    "tool": "Mini-Band",
+    "desc": "Band around wrists. Arms straight in front. Pulse outward quickly."
+  },
+  {
+    "name": "Mini-Band Glute Kickbacks",
+    "tool": "Mini-Band",
+    "desc": "Band around ankles. Kick one leg back. Squeeze glute at top."
+  },
+  {
+    "name": "Mini-Band Lateral Shuffles",
+    "tool": "Mini-Band",
+    "desc": "Band around knees. Stay low. Take wide steps to the side."
+  },
+  {
+    "name": "Sandbag Shoulder Clean",
+    "tool": "Sandbag",
+    "desc": "Lift bag to one shoulder. Squat. Switch shoulders. Forces stability."
+  },
+  {
+    "name": "Sandbag Bear Hug Squat",
+    "tool": "Sandbag",
+    "desc": "Hug bag to chest. Squat deep. Bag pulls you forward, keeping you upright."
+  },
+  {
+    "name": "Slant Board Squat",
+    "tool": "Slant Board",
+    "desc": "Squat on the board (toes up or down). Targets ankle/knee."
+  },
+  {
+    "name": "Slant Board Calf Stretch",
+    "tool": "Slant Board",
+    "desc": "Stand on board (toes up). Lean forward. Intense calf stretch."
+  },
+  {
+    "name": "Parallel Bar Support Hold",
+    "tool": "Dip Bars",
+    "desc": "Push yourself up. Hold with straight arms. Depress shoulders."
+  },
+  {
+    "name": "Parallel Bar L-Sit Tuck",
+    "tool": "Dip Bars",
+    "desc": "In support hold, tuck knees to chest. Hold. Hip flexor strength."
+  },
+  {
+    "name": "Pull-Up Bar Passive Hang",
+    "tool": "Pull-Up Bar",
+    "desc": "Just hang. Let gravity decompress spine and stretch lats."
+  }
 ]

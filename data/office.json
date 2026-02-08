@@ -1,22 +1,102 @@
 [
-  { "name": "Seated Spinal Twist", "tool": "Chair", "desc": "Sit tall. Reach for the back of your chair and twist. Look over your shoulder." },
-  { "name": "Desk Wrist Extension", "tool": "Desk", "desc": "Place palms on desk, fingers facing you. Lean back gently. Stretch those typing muscles." },
-  { "name": "Seated Figure-Four", "tool": "Chair", "desc": "Ankle over opposite knee. Lean forward with a flat back. Feel the glute stretch." },
-  { "name": "Neck CARs", "tool": "Bodyweight", "desc": "Slowly rotate your neck in the largest circle possible. Controlled Articular Rotations." },
-  { "name": "Seated Neck Side-Stretch", "tool": "Chair", "desc": "Hold the bottom of your chair with one hand. Lean your head to the opposite side." },
-  { "name": "Desk Pectoral Stretch", "tool": "Desk", "desc": "Forearm on desk edge. Step forward and turn away. Open up the chest." },
-  { "name": "Seated Cat-Cow", "tool": "Chair", "desc": "Hands on knees. Arch your back and look up, then round your back and look down." },
-  { "name": "Chin Tucks", "tool": "Bodyweight", "desc": "Pull your chin straight back like you're making a double chin. Fix that tech-neck." },
-  { "name": "Scapular Shrugs", "tool": "Chair", "desc": "Shrug shoulders to ears, then squeeze them down and back. Repeat." },
-  { "name": "Seated Hamstring Stretch", "tool": "Chair", "desc": "One leg straight out, heel on floor. Lean forward from the hips." },
-  { "name": "Wrist Circles", "tool": "Bodyweight", "desc": "Interlock fingers. Rotate wrists in both directions. Move them like they're oiled." },
-  { "name": "Overhead Reach", "tool": "Bodyweight", "desc": "Reach for the ceiling. Interlace fingers and push palms up. Get tall." },
-  { "name": "Shoulder Blade Squeezes", "tool": "Chair", "desc": "Imagine a pencil between your shoulder blades. Squeeze it. Hold for 5 seconds." },
-  { "name": "Eagle Arms Stretch", "tool": "Bodyweight", "desc": "Cross arms at elbows and wrists. Lift elbows up. Open the upper back." },
-  { "name": "Triceps Desk Stretch", "tool": "Desk", "desc": "Elbows on desk, hands behind head. Drop your head between your arms." },
-  { "name": "Seated Lateral Lean", "tool": "Chair", "desc": "One hand on chair leg, reach other arm over your head to the side." },
-  { "name": "Ankle Pumps", "tool": "Bodyweight", "desc": "Point toes away, then pull them back. Keep the blood flowing while sitting." },
-  { "name": "Shoulder Rolls", "tool": "Bodyweight", "desc": "Big circles. Up, back, down, forward. Loosen the tension." },
-  { "name": "Chair Pigeon Pose", "tool": "Chair", "desc": "Same as Figure-Four but push the knee down gently for more intensity." },
-  { "name": "Standing Desk Quad Stretch", "tool": "Desk", "desc": "Stand, hold desk for balance. Grab your ankle behind you. Knees together." }
+  {
+    "name": "Seated Spinal Twist",
+    "tool": "Chair",
+    "desc": "Sit tall. Reach for the back of your chair and twist. Look over your shoulder."
+  },
+  {
+    "name": "Desk Wrist Extension",
+    "tool": "Desk",
+    "desc": "Place palms on desk, fingers facing you. Lean back gently. Stretch those typing muscles."
+  },
+  {
+    "name": "Seated Figure-Four",
+    "tool": "Chair",
+    "desc": "Ankle over opposite knee. Lean forward with a flat back. Feel the glute stretch."
+  },
+  {
+    "name": "Neck CARs",
+    "tool": "Bodyweight",
+    "desc": "Slowly rotate your neck in the largest circle possible. Controlled Articular Rotations."
+  },
+  {
+    "name": "Seated Neck Side-Stretch",
+    "tool": "Chair",
+    "desc": "Hold the bottom of your chair with one hand. Lean your head to the opposite side."
+  },
+  {
+    "name": "Desk Pectoral Stretch",
+    "tool": "Desk",
+    "desc": "Forearm on desk edge. Step forward and turn away. Open up the chest."
+  },
+  {
+    "name": "Seated Cat-Cow",
+    "tool": "Chair",
+    "desc": "Hands on knees. Arch your back and look up, then round your back and look down."
+  },
+  {
+    "name": "Chin Tucks",
+    "tool": "Bodyweight",
+    "desc": "Pull your chin straight back like you're making a double chin. Fix that tech-neck."
+  },
+  {
+    "name": "Scapular Shrugs",
+    "tool": "Chair",
+    "desc": "Shrug shoulders to ears, then squeeze them down and back. Repeat."
+  },
+  {
+    "name": "Seated Hamstring Stretch",
+    "tool": "Chair",
+    "desc": "One leg straight out, heel on floor. Lean forward from the hips."
+  },
+  {
+    "name": "Wrist Circles",
+    "tool": "Bodyweight",
+    "desc": "Interlock fingers. Rotate wrists in both directions. Move them like they're oiled."
+  },
+  {
+    "name": "Overhead Reach",
+    "tool": "Bodyweight",
+    "desc": "Reach for the ceiling. Interlace fingers and push palms up. Get tall."
+  },
+  {
+    "name": "Shoulder Blade Squeezes",
+    "tool": "Chair",
+    "desc": "Imagine a pencil between your shoulder blades. Squeeze it. Hold for 5 seconds."
+  },
+  {
+    "name": "Eagle Arms Stretch",
+    "tool": "Bodyweight",
+    "desc": "Cross arms at elbows and wrists. Lift elbows up. Open the upper back."
+  },
+  {
+    "name": "Triceps Desk Stretch",
+    "tool": "Desk",
+    "desc": "Elbows on desk, hands behind head. Drop your head between your arms."
+  },
+  {
+    "name": "Seated Lateral Lean",
+    "tool": "Chair",
+    "desc": "One hand on chair leg, reach other arm over your head to the side."
+  },
+  {
+    "name": "Ankle Pumps",
+    "tool": "Bodyweight",
+    "desc": "Point toes away, then pull them back. Keep the blood flowing while sitting."
+  },
+  {
+    "name": "Shoulder Rolls",
+    "tool": "Bodyweight",
+    "desc": "Big circles. Up, back, down, forward. Loosen the tension."
+  },
+  {
+    "name": "Chair Pigeon Pose",
+    "tool": "Chair",
+    "desc": "Same as Figure-Four but push the knee down gently for more intensity."
+  },
+  {
+    "name": "Standing Desk Quad Stretch",
+    "tool": "Desk",
+    "desc": "Stand, hold desk for balance. Grab your ankle behind you. Knees together."
+  }
 ]

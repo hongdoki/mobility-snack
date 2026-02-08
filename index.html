@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MOBILITY SNACK</title>
 </head>
+
 <body>
     <header>
         <h1>This is a motherfucking mobility snack app.</h1>
-        <p>You’re stiff as a board. You don't need a 50MB React bundle to move your joints. You need to get off your ass.</p>
+        <p>You’re stiff as a board. You don't need a 50MB React bundle to move your joints. You need to get off your
+            ass.</p>
     </header>
 
     <hr>
@@ -28,22 +31,22 @@
     <footer>
         <p>Go move. Or don't. I'm a website, not your mom.</p>
         <p style="font-size: 0.8em; color: #666;">
-            Motivated by <a href="https://motherfuckingwebsite.com/" target="_blank">motherfuckingwebsite.com</a>. 
+            Motivated by <a href="https://motherfuckingwebsite.com/" target="_blank">motherfuckingwebsite.com</a>.
             Made with Gemini.
         </p>
     </footer>
 
     <script>
         let allSnacks = [];
-        
+
         // List your category files here
         const dataFiles = [
             'data/office.json',
             'data/wall.json',
             'data/bodyweight.json',
-	    'data/tools.json',
-	    'data/primal.json',
-	    'data/chaos.json'
+            'data/tools.json',
+            'data/primal.json',
+            'data/chaos.json'
         ];
 
         async function initApp() {
@@ -51,10 +54,10 @@
                 // Fetch all files in parallel
                 const promises = dataFiles.map(file => fetch(file).then(res => res.json()));
                 const results = await Promise.all(promises);
-                
+
                 // Flatten the arrays into one
                 allSnacks = results.flat();
-                
+
                 // Enable the button
                 const btn = document.getElementById('get-snack');
                 btn.innerText = "Give me a fucking exercise";
@@ -69,14 +72,14 @@
             if (allSnacks.length === 0) return;
 
             const snack = allSnacks[Math.floor(Math.random() * allSnacks.length)];
-            
+
             document.getElementById('tool').innerText = snack.tool;
             document.getElementById('name').innerText = snack.name;
             document.getElementById('desc').innerText = snack.desc;
-            
+
             const searchQuery = encodeURIComponent(snack.name + " mobility exercise");
             document.getElementById('yt-link').href = `https://www.youtube.com/results?search_query=${searchQuery}`;
-            
+
             document.getElementById('result').style.display = 'block';
         }
 
@@ -84,4 +87,5 @@
         initApp();
     </script>
 </body>
+
 </html>

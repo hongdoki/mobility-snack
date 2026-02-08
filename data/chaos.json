@@ -1,65 +1,47 @@
 [
-  { "name": "The 'I Just Stubbed My Toe' Flail", "tool": "Bodyweight", "desc": "Hop on one leg while shaking every other limb violently. Cursing is optional but recommended for maximum joint lubrication." },
-  { "name": "The Inflatable Tube Man", "tool": "Bodyweight", "desc": "Pretend you are outside a car dealership. Let your spine become liquid and let the wind toss your arms. No rhythm allowed." },
-  { "name": "The Mid-Life Crisis Disco", "tool": "Bodyweight", "desc": "Point aggressively at imaginary things in the corners of the room. It’s great for shoulder internal rotation and losing your dignity." },
-  { "name": "The 'Invisible Bees' Attack", "tool": "Bodyweight", "desc": "Vigorously swat at the air around your entire body. High-intensity coordination for people who hate traditional cardio." },
-  { "name": "The Interpretive 'Tax Season' Dance", "tool": "Bodyweight", "desc": "Move in a way that expresses deep financial despair. Lots of floor work, heavy sighs, and erratic spinal ripples." },
-  { "name": "The Biological Glitch", "tool": "Inner Rhythm", "desc": "Close your eyes. Find a 'sticky' spot in your body. Move into it and out of it using a rhythm only you can hear. Don't stop for 2 minutes." },
-  { "name": "Snake Soul Ripple", "tool": "Inner Rhythm", "desc": "Imagine a pulse starting at the base of your spine and moving up to your head. Let it wiggle every vertebra. It doesn't have to look pretty; it just has to feel fluid." },
-  { "name": "The Weightless Puppet", "tool": "Inner Rhythm", "desc": "Imagine you are suspended by a single string on your head. Let every other joint hang loose. Now, let the string go and move like you're underwater." },
-  { "name": "Joint Conversation", "tool": "Inner Rhythm", "desc": "Let your right elbow lead your body for 30 seconds. Then let your left hip lead. Follow the momentum wherever it drags you." }
+  {
+    "name": "The 'I Just Stubbed My Toe' Flail",
+    "tool": "Bodyweight",
+    "desc": "Hop on one leg while shaking every other limb violently. Cursing is optional but recommended for maximum joint lubrication."
+  },
+  {
+    "name": "The Inflatable Tube Man",
+    "tool": "Bodyweight",
+    "desc": "Pretend you are outside a car dealership. Let your spine become liquid and let the wind toss your arms. No rhythm allowed."
+  },
+  {
+    "name": "The Mid-Life Crisis Disco",
+    "tool": "Bodyweight",
+    "desc": "Point aggressively at imaginary things in the corners of the room. It’s great for shoulder internal rotation and losing your dignity."
+  },
+  {
+    "name": "The 'Invisible Bees' Attack",
+    "tool": "Bodyweight",
+    "desc": "Vigorously swat at the air around your entire body. High-intensity coordination for people who hate traditional cardio."
+  },
+  {
+    "name": "The Interpretive 'Tax Season' Dance",
+    "tool": "Bodyweight",
+    "desc": "Move in a way that expresses deep financial despair. Lots of floor work, heavy sighs, and erratic spinal ripples."
+  },
+  {
+    "name": "The Biological Glitch",
+    "tool": "Inner Rhythm",
+    "desc": "Close your eyes. Find a 'sticky' spot in your body. Move into it and out of it using a rhythm only you can hear. Don't stop for 2 minutes."
+  },
+  {
+    "name": "Snake Soul Ripple",
+    "tool": "Inner Rhythm",
+    "desc": "Imagine a pulse starting at the base of your spine and moving up to your head. Let it wiggle every vertebra. It doesn't have to look pretty; it just has to feel fluid."
+  },
+  {
+    "name": "The Weightless Puppet",
+    "tool": "Inner Rhythm",
+    "desc": "Imagine you are suspended by a single string on your head. Let every other joint hang loose. Now, let the string go and move like you're underwater."
+  },
+  {
+    "name": "Joint Conversation",
+    "tool": "Inner Rhythm",
+    "desc": "Let your right elbow lead your body for 30 seconds. Then let your left hip lead. Follow the momentum wherever it drags you."
+  }
 ]
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-data/chaos.json [unix] (08:59 01/01/1970)                                                                                                                            0,1 All
--- INSERT --
-
