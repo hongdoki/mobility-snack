@@ -48,7 +48,7 @@
   { "name": "Kettlebell Prying Lunge", "tool": "Kettlebell", "desc": "Lunge position. Hold KB inside front leg. Move hips in circles." },
   { "name": "Kettlebell Straight Leg Deadlift", "tool": "Kettlebell", "desc": "Hold KB with both hands. Hinge at hips with straight legs." },
   { "name": "Kettlebell Arm Bar", "tool": "Kettlebell", "desc": "Lie on back, press KB up. Roll onto your side, keep arm vertical." },
-  { "name": "Dumbbell Cuban Press", "tool": "Dumbbell", "desc": "Upright row to 90, rotate weights up, then press. Great for shoulders." }
+  { "name": "Dumbbell Cuban Press", "tool": "Dumbbell", "desc": "Upright row to 90, rotate weights up, then press. Great for shoulders." },
   { "name": "Dumbbell Chest Supported Row", "tool": "Dumbbell", "desc": "Lie face down on incline bench. Pull weights back, squeezing shoulder blades." },
   { "name": "Dumbbell Pullover", "tool": "Dumbbell", "desc": "Lie on bench. Hold one DB with both hands. Lower behind head, then pull back up." },
   { "name": "Dumbbell Wrist Curls", "tool": "Dumbbell", "desc": "Rest forearm on thigh. Curl weight up with wrist. Then flip for extensions." },
