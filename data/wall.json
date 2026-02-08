@@ -1,0 +1,22 @@
+[
+  { "name": "Wall Chest Opener", "tool": "Wall", "desc": "Arm at 90 degrees against the wall. Rotate your body away. Breathe." },
+  { "name": "Wall Calf Stretch", "tool": "Wall", "desc": "Toes up against the wall, heel on floor. Lean in. Feel the burn." },
+  { "name": "Wall Squat Hold", "tool": "Wall", "desc": "Back against wall, knees at 90 degrees. Stay there until you hate me." },
+  { "name": "Wall Pec Stretch (Straight Arm)", "tool": "Wall", "desc": "Hand flat on wall, arm straight. Turn your body away slowly." },
+  { "name": "Wall Downward Dog", "tool": "Wall", "desc": "Hands on wall at hip height. Walk back and drop your head between your arms." },
+  { "name": "Wall Hip Flexor Stretch", "tool": "Wall", "desc": "Back knee on floor against the wall, foot pointing up. Lunge forward with other leg." },
+  { "name": "Wall Angels", "tool": "Wall", "desc": "Keep your head, back, and arms against the wall. Slide arms up and down slowly." },
+  { "name": "Wall Butterfly", "tool": "Wall", "desc": "Sit on floor, back against wall. Feet together, knees out. Push knees down." },
+  { "name": "Wall Glute Stretch", "tool": "Wall", "desc": "Lie on back, feet on wall. Cross one ankle over knee. Push hips to floor." },
+  { "name": "Wall Lat Stretch", "tool": "Wall", "desc": "Hands high on wall. Lean your chest toward the floor. Keep arms straight." },
+  { "name": "Wall Thoracic Bridge", "tool": "Wall", "desc": "Stand facing away from wall. Reach back and touch the wall with one hand. Rotate." },
+  { "name": "Wall T-Spine Opener", "tool": "Wall", "desc": "Side to wall. Rotate your outside arm all the way around in a circle on the wall." },
+  { "name": "Wall Ankle Mobilization", "tool": "Wall", "desc": "Toe 2 inches from wall. Drive knee forward to touch the wall without lifting heel." },
+  { "name": "Standing Wall Twist", "tool": "Wall", "desc": "Side to wall. Hands on wall at shoulder height. Twist your torso toward the wall." },
+  { "name": "Wall Scapular Pushups", "tool": "Wall", "desc": "Hands on wall. Move only your shoulder blades in and out. Keep arms straight." },
+  { "name": "Wall Psoas Stretch", "tool": "Wall", "desc": "One foot on wall behind you, other leg in lunge. Tilt pelvis up." },
+  { "name": "Wall Neck Isometric", "tool": "Wall", "desc": "Side of head against wall. Push gently. Hold. Switch sides." },
+  { "name": "Wall Hamstring RDL", "tool": "Wall", "desc": "Stand 6 inches from wall facing away. Hinge hips back until they touch the wall." },
+  { "name": "Wall Triceps Stretch", "tool": "Wall", "desc": "Elbow high on wall. Lean in. Use the wall to push your elbow back." },
+  { "name": "Wall Internal Rotation", "tool": "Wall", "desc": "Side to wall. Arm behind back, elbow touching wall. Gently lean into it." }
+]
