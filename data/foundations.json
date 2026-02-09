@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Box Breathing",
+        "tool": "Breath",
+        "desc": "Inhale 4s, Hold 4s, Exhale 4s, Hold 4s. Resets the nervous system and expands the ribcage."
+    },
+    {
+        "name": "Crocodile Breathing",
+        "tool": "Breath",
+        "desc": "Lie face down, forehead on hands. Breathe into your lower back. Feel your belly push against the floor."
+    },
+    {
+        "name": "90/90 Diaphragmatic Breaths",
+        "tool": "Breath",
+        "desc": "Feet flat on wall, knees at 90. Breathe deep into your belt line. Exhale until your ribs drop."
+    },
+    {
+        "name": "Intercostal Expansion",
+        "tool": "Breath",
+        "desc": "Reach one arm overhead and lean. Breathe deep into the open side of your ribs to stretch from the inside out."
+    },
+    {
+        "name": "The Physiological Sigh",
+        "tool": "Breath",
+        "desc": "Double inhale through the nose (one big, one sharp on top) followed by a long, slow exhale through the mouth."
+    },
+    {
+        "name": "Big Toe Isolation",
+        "tool": "Foot Yoga",
+        "desc": "Keep four small toes on the floor. Lift only the big toe. Hold for 5 seconds. Crucial for balance."
+    },
+    {
+        "name": "Small Toe Isolation",
+        "tool": "Foot Yoga",
+        "desc": "Press the big toe down hard. Lift only the four small toes. Build that arch control."
+    },
+    {
+        "name": "The Toe Splay",
+        "tool": "Foot Yoga",
+        "desc": "Try to spread your toes as wide as possible, creating daylight between each one. No hands allowed!"
+    },
+    {
+        "name": "Short Foot (Arch Lift)",
+        "tool": "Foot Yoga",
+        "desc": "Without curling your toes, try to pull the ball of your foot toward your heel. Watch your arch rise."
+    },
+    {
+        "name": "Toe Piano",
+        "tool": "Foot Yoga",
+        "desc": "Lift all toes up. Try to put them down one by one, starting from the pinky toe to the big toe."
+    },
+    {
+        "name": "Ankle Alphabet",
+        "tool": "Foot Yoga",
+        "desc": "Draw the capital letters A-Z with your big toe. Moves the ankle through every possible range of motion."
+    },
+    {
+        "name": "Seated Plantar Stretch",
+        "tool": "Foot Yoga",
+        "desc": "Kneel with toes tucked under. Sit back on your heels. If it burns, it's working."
+    }
+]
