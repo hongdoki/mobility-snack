@@ -1,0 +1,502 @@
+[
+  {
+    "name": "The Backpack Halo",
+    "tool": "Weighted",
+    "desc": "Hold a loaded backpack. Circle it around your head. Core must stay like a pillar."
+  },
+  {
+    "name": "Leg Circle Riddle",
+    "tool": "Bodyweight",
+    "desc": "Draw a circle with your right foot clockwise, and your right hand counter-clockwise. Switch sides."
+  },
+  {
+    "name": "The Water Bottle Windmill",
+    "tool": "Weighted",
+    "desc": "Hold a water bottle overhead. Hinge at the hips, touch the floor. Keeps shoulders stable."
+  },
+  {
+    "name": "Walking Lunges (Dynamic)",
+    "tool": "Bodyweight",
+    "desc": "Lunge forward, then immediately into the next. Don't stop in the middle. Rhythm and flow."
+  },
+  {
+    "name": "The Cross-Body Tap",
+    "tool": "Bodyweight",
+    "desc": "Jump and touch your right hand to your left heel behind your back. Alternate fast."
+  },
+  {
+    "name": "Weighted Jefferson Curl",
+    "tool": "Weighted",
+    "desc": "Hold a heavy book. Slowly roll down vertebrae by vertebrae. The weight pulls you deeper."
+  },
+  {
+    "name": "Cossack Squat (Bottle Reach)",
+    "tool": "Weighted",
+    "desc": "Deep lateral lunge. Reach a weight away from your lunging leg to counter-balance."
+  },
+  {
+    "name": "The Finger-Thumb Slide",
+    "tool": "Movement Riddle",
+    "desc": "On one hand, touch thumb to index. On the other, thumb to pinky. Switch both at the same time."
+  },
+  {
+    "name": "Dynamic Hip Gate",
+    "tool": "Bodyweight",
+    "desc": "While walking, lift knee and rotate out (open gate), then next step rotate in (close gate)."
+  },
+  {
+    "name": "The Heavy Book Press",
+    "tool": "Weighted",
+    "desc": "Hold a book between your palms. Squeeze hard while pressing overhead. Chest and shoulder activation."
+  },
+  {
+    "name": "Single Leg Deadlift (Bottle Pass)",
+    "tool": "Weighted",
+    "desc": "Hinge on one leg. Pass a water bottle from hand to hand under your torso."
+  },
+  {
+    "name": "The 'Figure 8' Breath",
+    "tool": "Breath",
+    "desc": "Trace a figure 8 in the air with your nose while breathing continuously. Neck and lung coordination."
+  },
+  {
+    "name": "Prone Backpack Row",
+    "tool": "Weighted",
+    "desc": "Lie on a bench or bed. Pull backpack to chest. Focus on the 'squeeze' at the top."
+  },
+  {
+    "name": "The Sky-to-Floor Flow",
+    "tool": "Bodyweight",
+    "desc": "Reach as high as possible on toes, then immediately drop into a deep squat, hands on floor."
+  },
+  {
+    "name": "Ankle Bounce (Dynamic)",
+    "tool": "Bodyweight",
+    "desc": "Small, pogo-like jumps using only your ankles. Builds 'spring' and tendon density."
+  },
+  {
+    "name": "The 'One-Handed' Knot",
+    "tool": "Movement Riddle",
+    "desc": "Try to tie a knot in a piece of string using only one hand. Incredible for finger dexterity."
+  },
+  {
+    "name": "Weighted Russian Twist",
+    "tool": "Weighted",
+    "desc": "Sit, feet up. Move a weight side to side. Keep your chest facing the weight."
+  },
+  {
+    "name": "Dynamic Quad Stretch",
+    "tool": "Bodyweight",
+    "desc": "Walk forward. Pull heel to glute for 1s, then step and switch. Don't hold; move."
+  },
+  {
+    "name": "The 'Clock' Reach",
+    "tool": "Bodyweight",
+    "desc": "Stand on one leg. Reach the other foot to 12, 3, 6, and 9 o'clock without touching the floor."
+  },
+  {
+    "name": "Backpack Goblet Squat",
+    "tool": "Weighted",
+    "desc": "Hug your backpack to your chest. Squat deep. The weight keeps you upright."
+  },
+  {
+    "name": "The Wrist Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Rotate your wrists in circles. Now try to rotate one twice as fast as the other."
+  },
+  {
+    "name": "Dynamic Scapular Slaps",
+    "tool": "Bodyweight",
+    "desc": "Swing arms wide, then wrap them around your body, slapping your own shoulder blades."
+  },
+  {
+    "name": "The Book Balance Walk",
+    "tool": "Weighted",
+    "desc": "Place a book on your head. Walk 20 steps, then squat, then stand up. Keep the book level."
+  },
+  {
+    "name": "Single Leg Pogo",
+    "tool": "Bodyweight",
+    "desc": "Hop on one leg using only the ball of the foot. 30 reps per side. Bulletproof ankles."
+  },
+  {
+    "name": "The 'Z' Press (No Weight)",
+    "tool": "Bodyweight",
+    "desc": "Sit on floor, legs straight out. Press arms overhead. Brutal for core and spine."
+  },
+  {
+    "name": "Dynamic World's Greatest",
+    "tool": "Bodyweight",
+    "desc": "Perform the lunge-twist-stretch flow but move through each position in only 2 seconds."
+  },
+  {
+    "name": "The 'Pat Head Rub Belly'",
+    "tool": "Movement Riddle",
+    "desc": "The classic. Pat your head with one hand, rub your stomach in a circle with the other."
+  },
+  {
+    "name": "Weighted Side Bend",
+    "tool": "Weighted",
+    "desc": "Hold a heavy bag in one hand. Lean toward the bag, then pull back to center using your obliques."
+  },
+  {
+    "name": "Dynamic Lat Stretch",
+    "tool": "Bodyweight",
+    "desc": "Swing one arm over your head and lean. Bounce gently at the end of the range."
+  },
+  {
+    "name": "The 'Box' Step Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Step forward with right, side with left, back with right, side with left. Now reverse direction."
+  },
+  {
+    "name": "Backpack Overhead Lunge",
+    "tool": "Weighted",
+    "desc": "Hold backpack straight overhead. Perform lunges. Massive stability test for the spine."
+  },
+  {
+    "name": "Dynamic Calf Stretch",
+    "tool": "Bodyweight",
+    "desc": "Downward dog. Pedal your feet rapidly (1s per side) for 50 reps."
+  },
+  {
+    "name": "The 'Nose-to-Finger' Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Touch nose, then touch a moving target (like your other hand). Increases spatial awareness."
+  },
+  {
+    "name": "Weighted Calf Raise",
+    "tool": "Weighted",
+    "desc": "Hold a heavy object in each hand. Perform slow calf raises. 3s up, 3s down."
+  },
+  {
+    "name": "Dynamic T-Spine Rotation",
+    "tool": "Bodyweight",
+    "desc": "Wide stance. Bent over. Swing arms side to side like a windmill at high speed."
+  },
+  {
+    "name": "The 'Writing' Foot",
+    "tool": "Movement Riddle",
+    "desc": "Try to write your name in the air with your big toe. Make the letters as large as possible."
+  },
+  {
+    "name": "Backpack Good Morning",
+    "tool": "Weighted",
+    "desc": "Wear backpack on your front. Hinge at hips. Feeling the stretch in the hamstrings."
+  },
+  {
+    "name": "Dynamic Wrist Flick",
+    "tool": "Bodyweight",
+    "desc": "Flick your hands as if trying to get water off them. 60 seconds fast. Improves circulation."
+  },
+  {
+    "name": "The 'Floating' Arm Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Press your arms hard against a door frame for 30s. Step away and let them 'float' up."
+  },
+  {
+    "name": "Weighted Glute Bridge",
+    "tool": "Weighted",
+    "desc": "Lie on back. Place a heavy book on your hips. Lift and squeeze."
+  },
+  {
+    "name": "Dynamic Neck Circles",
+    "tool": "Bodyweight",
+    "desc": "Roll your neck in a circle, but use your eyes to lead the movement. Look where you're going."
+  },
+  {
+    "name": "The 'Thumb-Pinky' Switch",
+    "tool": "Movement Riddle",
+    "desc": "Close fist. Extend thumb on left hand, pinky on right. Switch them simultaneously."
+  },
+  {
+    "name": "Backpack Floor Press",
+    "tool": "Weighted",
+    "desc": "Lie on back. Press the backpack from chest to sky. Squeeze the pecs."
+  },
+  {
+    "name": "Dynamic Hamstring Kick",
+    "tool": "Bodyweight",
+    "desc": "Keep leg straight. Kick it forward toward your opposite hand. Alternate while walking."
+  },
+  {
+    "name": "The 'Shadow' Boxer",
+    "tool": "Bodyweight",
+    "desc": "Throw slow, intentional punches. Focus on the rotation of the hip and the extension of the back."
+  },
+  {
+    "name": "Weighted Overhead Sit-up",
+    "tool": "Weighted",
+    "desc": "Hold a book overhead. Perform a sit-up, keeping the book pointed at the ceiling."
+  },
+  {
+    "name": "Dynamic Shoulder Shrug",
+    "tool": "Bodyweight",
+    "desc": "Shrug shoulders up, back, and down as fast as possible for 30 seconds."
+  },
+  {
+    "name": "The 'Cross-Crawl'",
+    "tool": "Movement Riddle",
+    "desc": "March in place. Touch right elbow to left knee, then left elbow to right knee. Rhythm!"
+  },
+  {
+    "name": "Backpack Lateral Lunge",
+    "tool": "Weighted",
+    "desc": "Hold backpack at chest. Step wide. The weight helps you sit deeper into the hip."
+  },
+  {
+    "name": "Dynamic Ankle Inversion",
+    "tool": "Bodyweight",
+    "desc": "Walk on the outside of your feet for 10 steps, then the inside for 10 steps. Quick switches."
+  },
+  {
+    "name": "The 'Mirror' Hand Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Draw a circle with one hand and a square with the other simultaneously. Brain-melting."
+  },
+  {
+    "name": "Weighted Prying Squat",
+    "tool": "Weighted",
+    "desc": "Hold a heavy bottle. In a deep squat, move the bottle in a figure 8 between your legs."
+  },
+  {
+    "name": "Dynamic Chest Opener",
+    "tool": "Bodyweight",
+    "desc": "Swing arms in a giant 'X' pattern in front of your chest. Switch which arm is on top."
+  },
+  {
+    "name": "The 'Balance' Twist",
+    "tool": "Bodyweight",
+    "desc": "Stand on one leg. Rotate your head to look left and right as fast as possible."
+  },
+  {
+    "name": "Backpack Tricep Extension",
+    "tool": "Weighted",
+    "desc": "Hold backpack behind head. Extend arms upward. Keep elbows tucked to ears."
+  },
+  {
+    "name": "Dynamic Knee to Chest",
+    "tool": "Bodyweight",
+    "desc": "Jog in place, but pull your knees all the way to your chest with every step."
+  },
+  {
+    "name": "The 'Squeeze and Release' Riddle",
+    "tool": "Inner Rhythm",
+    "desc": "Squeeze every muscle in your body for 5s, then try to become a puddle of jelly. Repeat."
+  },
+  {
+    "name": "Weighted Wrist Curl",
+    "tool": "Weighted",
+    "desc": "Use a water bottle. Curl the wrist up and down. High reps for forearm health."
+  },
+  {
+    "name": "Dynamic Hip Circles (Small)",
+    "tool": "Bodyweight",
+    "desc": "Move hips in tiny, fast circles. Like you're vibrating the pelvis. Wakes up the fascia."
+  },
+  {
+    "name": "The 'Toe-Heel' Tap Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Tap your left toe and right heel. Then switch to left heel and right toe. Get a beat going."
+  },
+  {
+    "name": "Backpack Bicep Curl",
+    "tool": "Weighted",
+    "desc": "Hold backpack by the top handle. Curl with control. Slow on the way down."
+  },
+  {
+    "name": "Dynamic Scorpion (Standing)",
+    "tool": "Bodyweight",
+    "desc": "Stand, hands on wall. Kick one leg back and across your body. Switch sides rapidly."
+  },
+  {
+    "name": "The 'Floating' Foot Riddle",
+    "tool": "Bodyweight",
+    "desc": "Stand on one leg. Imagine your other foot is a brush. 'Paint' the floor around you."
+  },
+  {
+    "name": "Weighted Reverse Fly",
+    "tool": "Weighted",
+    "desc": "Hinge at hips. Hold two books. Pull them out to the sides. Squeeze the upper back."
+  },
+  {
+    "name": "Dynamic Standing Twist",
+    "tool": "Bodyweight",
+    "desc": "Stand tall. Let your arms hang loose. Twist your torso and let the arms 'slap' your hips."
+  },
+  {
+    "name": "The 'Blind' Squat",
+    "tool": "Bodyweight",
+    "desc": "Close your eyes and perform 10 squats. Focus entirely on the pressure in your feet."
+  },
+  {
+    "name": "Backpack Thruster",
+    "tool": "Weighted",
+    "desc": "Squat with backpack at chest, then press it overhead as you stand up. Full body power."
+  },
+  {
+    "name": "Dynamic Shoulder Rolls",
+    "tool": "Bodyweight",
+    "desc": "Roll shoulders forward for 15s, then backward for 15s. Huge, exaggerated movements."
+  },
+  {
+    "name": "The 'Finger Count' Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Count 1-5 on your fingers. Now count 1-5 but skip the middle finger. Harder than it sounds."
+  },
+  {
+    "name": "Weighted Shoulder Press (Single)",
+    "tool": "Weighted",
+    "desc": "Hold weight in one hand. Press up. Keep your body from leaning to the side."
+  },
+  {
+    "name": "Dynamic Hip Extension",
+    "tool": "Bodyweight",
+    "desc": "Stand and lean on a wall. Kick one leg back as hard as you can (controlled). 20 reps."
+  },
+  {
+    "name": "The 'Wall Slide' Riddle",
+    "tool": "Bodyweight",
+    "desc": "Perform a wall slide, but keep one arm in a 'W' and the other in a 'V'. Switch."
+  },
+  {
+    "name": "Backpack Deadlift",
+    "tool": "Weighted",
+    "desc": "Backpack on floor. Hinge and lift. Keep the weight close to your shins."
+  },
+  {
+    "name": "Dynamic Toe Touches",
+    "tool": "Bodyweight",
+    "desc": "Reach for toes, then reach for the sky. Move fast. 1 rep per second."
+  },
+  {
+    "name": "The 'Invisible Ball' Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Pretend you are dribbling a basketball with your feet while standing. Coordination!"
+  },
+  {
+    "name": "Weighted Lunging Twist",
+    "tool": "Weighted",
+    "desc": "Lunge forward with a weight. Rotate the weight over the front leg. Stability king."
+  },
+  {
+    "name": "Dynamic Lateral Hops",
+    "tool": "Bodyweight",
+    "desc": "Jump side to side over an imaginary line. Stay light on your toes."
+  },
+  {
+    "name": "The 'Nose Figure 8'",
+    "tool": "Bodyweight",
+    "desc": "Draw a figure 8 with your nose. Now try to do it with your chin. Different neck feel."
+  },
+  {
+    "name": "Backpack Upright Row",
+    "tool": "Weighted",
+    "desc": "Pull backpack to chin, elbows high. Targets the traps and side delts."
+  },
+  {
+    "name": "Dynamic Butt Kicks",
+    "tool": "Bodyweight",
+    "desc": "Jog in place, kicking your own glutes. Stretches the quads dynamically."
+  },
+  {
+    "name": "The 'Eye-Hand' Riddle",
+    "tool": "Movement Riddle",
+    "desc": "Toss a water bottle up and catch it. Now try to catch it with your eyes closed (careful!)."
+  },
+  {
+    "name": "Weighted Calf Raise (Toes In)",
+    "tool": "Weighted",
+    "desc": "Perform calf raises with toes pointed together. Targets the outer calf."
+  },
+  {
+    "name": "Dynamic Arm Circles (Small/Fast)",
+    "tool": "Bodyweight",
+    "desc": "Arms out. Tiny circles as fast as possible for 60s. Burn the shoulders out."
+  },
+  {
+    "name": "The 'Opposite' Reach",
+    "tool": "Bodyweight",
+    "desc": "Reach your right hand to your left ear and your left hand to your right knee. Switch."
+  },
+  {
+    "name": "Backpack Plank Drag",
+    "tool": "Weighted",
+    "desc": "In plank. Pull the backpack from your left side to your right side under your body."
+  },
+  {
+    "name": "Dynamic Cat-Cow (Fast)",
+    "tool": "Bodyweight",
+    "desc": "Move between cat and cow as fast as you can while maintaining a full range. Spine heat."
+  },
+  {
+    "name": "The 'Balance' Prayer",
+    "tool": "Bodyweight",
+    "desc": "Prayer hands. Stand on one leg. Close eyes. Try to keep hands perfectly still."
+  },
+  {
+    "name": "Weighted Single Leg Bridge",
+    "tool": "Weighted",
+    "desc": "One leg in air, book on hips. Lift. Huge glute and core challenge."
+  },
+  {
+    "name": "Dynamic Wrist Circles (Fast)",
+    "tool": "Bodyweight",
+    "desc": "Interlace fingers. Rotate wrists as fast as possible for 30 seconds."
+  },
+  {
+    "name": "The 'Alphabet' Spine",
+    "tool": "Bodyweight",
+    "desc": "Try to 'draw' the letter A with your hips, B with your ribs, C with your neck."
+  },
+  {
+    "name": "Backpack Suitcase Carry",
+    "tool": "Weighted",
+    "desc": "Hold backpack in one hand. Walk for 60s. Don't let the weight pull you sideways."
+  },
+  {
+    "name": "Dynamic Forward Fold (Pulse)",
+    "tool": "Bodyweight",
+    "desc": "Reach for toes. Bounce gently for 3 pulses, then stand up and reach high."
+  },
+  {
+    "name": "The 'Finger Tap' Rhythm",
+    "tool": "Movement Riddle",
+    "desc": "Tap: Index, Index, Pinky, Pinky, Thumb. Create a fast, complex rhythm."
+  },
+  {
+    "name": "Weighted Standing March",
+    "tool": "Weighted",
+    "desc": "Hold a weight overhead. March in place, pulling knees high. Posture and core."
+  },
+  {
+    "name": "Dynamic Hip Openers",
+    "tool": "Bodyweight",
+    "desc": "Step side to side, swinging your leg in a wide arc. Like you're stepping over a hurdle."
+  },
+  {
+    "name": "The 'Head-Shoulder' Riddle",
+    "tool": "Bodyweight",
+    "desc": "Look left while rotating your shoulders right. Now look right while rotating left."
+  },
+  {
+    "name": "Backpack Front Squat",
+    "tool": "Weighted",
+    "desc": "Hold backpack in the 'crook' of your elbows. Squat deep. Hard on the upper back."
+  },
+  {
+    "name": "Dynamic Side-to-Side Reach",
+    "tool": "Bodyweight",
+    "desc": "Stand wide. Reach arm over head to the opposite side. Switch rapidly."
+  },
+  {
+    "name": "The 'Ankle Alphabet' (Speed)",
+    "tool": "Bodyweight",
+    "desc": "Draw the alphabet with your foot as fast as possible. Pure ankle fire."
+  },
+  {
+    "name": "Final Power Ripple",
+    "tool": "Bodyweight",
+    "desc": "From toes to head, shake your entire body like you're trying to shake off water."
+  }
+]

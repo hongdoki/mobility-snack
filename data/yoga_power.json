@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Crow Pose (Bakasana)",
+        "tool": "Bodyweight",
+        "desc": "Balance on your hands with knees tucked into armpits. Massive wrist and core challenge."
+    },
+    {
+        "name": "L-Sit (Floor)",
+        "tool": "Bodyweight",
+        "desc": "Sit with legs straight. Lift your entire body off the floor using only your hands. Core fire."
+    },
+    {
+        "name": "Pelvic Tilt (Supine)",
+        "tool": "Bodyweight",
+        "desc": "Lie on back. Flatten your lower back into the floor, then arch it. Deep pelvic control."
+    },
+    {
+        "name": "Warrior III (Dynamic)",
+        "tool": "Bodyweight",
+        "desc": "Balance on one leg, body like a 'T'. Swing arms from sides to overhead without wobbling."
+    },
+    {
+        "name": "Dead Bug (Slow & Heavy)",
+        "tool": "Bodyweight",
+        "desc": "Lower opposite arm/leg. Take 10 seconds to go down. Keep back glued to floor."
+    },
+    {
+        "name": "Plank to Pike Pushup",
+        "tool": "Bodyweight",
+        "desc": "From plank, push hips high into a V, then perform a pushup targeting the shoulders."
+    },
+    {
+        "name": "Cossack Squat to Side Plank",
+        "tool": "Bodyweight",
+        "desc": "Drop into a deep side lunge, then transition your weight into a side plank on that same side."
+    },
+    {
+        "name": "Pigeon Pose (Active Lift)",
+        "tool": "Bodyweight",
+        "desc": "In pigeon, lift your chest and hands. Use your glutes to keep you upright. No leaning."
+    },
+    {
+        "name": "The 'Hollow' Rock",
+        "tool": "Bodyweight",
+        "desc": "Lie on back, arms and legs reaching out. Rock back and forth while maintaining a banana shape."
+    },
+    {
+        "name": "Chair Pose (Toe Balance)",
+        "tool": "Bodyweight",
+        "desc": "Deep squat with feet together. Lift heels as high as possible. Hold for 30 seconds."
+    },
+    {
+        "name": "Single-Leg Glute Bridge (Pulse)",
+        "tool": "Bodyweight",
+        "desc": "One leg up. Drive through the heel of the floor-leg. Pulse at the top of the range."
+    },
+    {
+        "name": "Scapular Pull-up (Floor)",
+        "tool": "Bodyweight",
+        "desc": "In plank. Move your chest toward the floor, then push it as far away as possible. Don't bend elbows."
+    },
+    {
+        "name": "Boat Pose (Twisting)",
+        "tool": "Bodyweight",
+        "desc": "Balance on your sits-bones, legs up. Rotate your torso side to side. Hits the obliques."
+    },
+    {
+        "name": "Reverse Tabletop (One Leg)",
+        "tool": "Bodyweight",
+        "desc": "Hips up, chest to sky. Lift one leg straight up. Massive shoulder and glute stability."
+    },
+    {
+        "name": "Side Plank (Star Reach)",
+        "tool": "Bodyweight",
+        "desc": "In side plank, lift your top leg and top arm. Hold the 'star' shape for 20 seconds."
+    },
+    {
+        "name": "Downward Dog to Cobra Flow",
+        "tool": "Bodyweight",
+        "desc": "Ripple through the spine from a V-shape down into a low back extension. Fluid motion."
+    },
+    {
+        "name": "Eagle Pose (Standing Balance)",
+        "tool": "Bodyweight",
+        "desc": "Wrap one leg over the other, wrap arms. Sit deep. Stretches the back of the shoulders."
+    },
+    {
+        "name": "Tucked Knee Hang",
+        "tool": "Pull-up Bar",
+        "desc": "Hang from a bar. Pull knees to chest and hold. Pelvic floor and lower abs."
+    },
+    {
+        "name": "Kneeling Side Kick",
+        "tool": "Bodyweight",
+        "desc": "On one knee and one hand. Kick the other leg out to the side. Glute medius burner."
+    },
+    {
+        "name": "The 'Cat-Cow' Plank",
+        "tool": "Bodyweight",
+        "desc": "In a full plank, try to arch and round your back. Tiny, high-tension movement."
+    },
+    {
+        "name": "Half-Moon Pose (Ardha Chandrasana)",
+        "tool": "Bodyweight",
+        "desc": "One hand on floor, one leg up, body rotated open. Ultimate balance and hip opener."
+    },
+    {
+        "name": "Mountain Climber (Spider)",
+        "tool": "Bodyweight",
+        "desc": "In plank, bring your knee to the OUTSIDE of your elbow. Hold for 2 seconds."
+    },
+    {
+        "name": "Dolphin Pose",
+        "tool": "Bodyweight",
+        "desc": "Like downward dog but on your forearms. Increases shoulder mobility for handstands."
+    },
+    {
+        "name": "Glute Bridge (Marching)",
+        "tool": "Bodyweight",
+        "desc": "Hold a bridge. Lift one foot, then the other. Do not let your hips tilt or drop."
+    },
+    {
+        "name": "V-Sit Hold",
+        "tool": "Bodyweight",
+        "desc": "Sit with legs and torso forming a V. Reach for your toes. Spine must stay straight."
+    },
+    {
+        "name": "Wild Thing (Flipped Dog)",
+        "tool": "Bodyweight",
+        "desc": "From downward dog, step one foot over and flip into a one-arm backbend."
+    },
+    {
+        "name": "Kneeling Pelvic Circles",
+        "tool": "Bodyweight",
+        "desc": "On all fours. Move only your pelvis in a circle. Like a slow-motion belly dance."
+    },
+    {
+        "name": "Plank (Hip Dips)",
+        "tool": "Bodyweight",
+        "desc": "In plank, rotate hips to touch the floor on the left, then the right. Oblique mobility."
+    },
+    {
+        "name": "Malasana (Squat) Twist",
+        "tool": "Bodyweight",
+        "desc": "Deep squat. One hand on floor, reach other to sky. Look at the top hand."
+    },
+    {
+        "name": "Single Leg RDL (Hand Switch)",
+        "tool": "Bodyweight",
+        "desc": "Hinge on one leg. Reach forward with one arm, then switch to the other while holding balance."
+    },
+    {
+        "name": "Superman (Alternating)",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Lift right arm and left leg. Hold 2s. Switch. Low back health."
+    },
+    {
+        "name": "Side Lying Leg Circles",
+        "tool": "Bodyweight",
+        "desc": "On your side. Lift top leg and draw small, fast circles. Don't let your torso move."
+    },
+    {
+        "name": "Wall Walk-ups",
+        "tool": "Wall",
+        "desc": "Start in plank with feet at wall. Walk your feet up the wall into a handstand. Shoulder power."
+    },
+    {
+        "name": "Butterfly (Active Press)",
+        "tool": "Bodyweight",
+        "desc": "Sit with feet together. Try to push your knees to the floor using only your hip muscles."
+    },
+    {
+        "name": "Forearm Plank (Saw)",
+        "tool": "Bodyweight",
+        "desc": "In forearm plank, shift your body forward and back using your toes. Shoulder stability."
+    },
+    {
+        "name": "Low Lunge (Twist and Reach)",
+        "tool": "Bodyweight",
+        "desc": "Lunge. Back knee down. Reach for your back heel with the opposite hand."
+    },
+    {
+        "name": "Bird-Dog (Crunch)",
+        "tool": "Bodyweight",
+        "desc": "Extend opposite arm/leg. Crunch under your body and touch elbow to knee. Repeat."
+    },
+    {
+        "name": "Standing Knee to Chest (Eyes Closed)",
+        "tool": "Bodyweight",
+        "desc": "Balance on one leg, pull other knee to chest. Close eyes. Massive balance challenge."
+    },
+    {
+        "name": "Prone Breaststroke",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Lift chest. Move arms as if swimming breaststroke. Upper back mobility."
+    },
+    {
+        "name": "Bridge (Heel Walk-outs)",
+        "tool": "Bodyweight",
+        "desc": "From bridge, walk your heels out as far as possible, then walk them back in."
+    },
+    {
+        "name": "Scale Pose (Tolasana)",
+        "tool": "Bodyweight",
+        "desc": "Cross legs (lotus if possible). Lift your whole body off the floor using hands."
+    },
+    {
+        "name": "Pelvic Floor Isometrics",
+        "tool": "Bodyweight",
+        "desc": "Squeeze and lift the pelvic floor. Hold 10s. Release. Foundation of core stability."
+    },
+    {
+        "name": "Side Plank (Knee to Elbow)",
+        "tool": "Bodyweight",
+        "desc": "In side plank, crunch your top knee and top elbow together. Balance and obliques."
+    },
+    {
+        "name": "Frog Pose (Static)",
+        "tool": "Bodyweight",
+        "desc": "Knees wide, feet out. Hold the deep stretch. Breathe into the adductors."
+    },
+    {
+        "name": "Cobra (Shoulder Rolls)",
+        "tool": "Bodyweight",
+        "desc": "In cobra pose, roll your shoulders forward and back. Loosens the chest/neck."
+    },
+    {
+        "name": "Skater Squat (Slow)",
+        "tool": "Bodyweight",
+        "desc": "Squat on one leg, touching the other knee to the floor behind you. Control the descent."
+    },
+    {
+        "name": "Warrior I (Backbend)",
+        "tool": "Bodyweight",
+        "desc": "High lunge. Reach arms up and slightly back. Feel the stretch in the back-leg hip flexor."
+    },
+    {
+        "name": "Bear Crawl (Static Hover)",
+        "tool": "Bodyweight",
+        "desc": "On all fours, knees 1 inch off floor. Hold for 60 seconds. Full body tension."
+    },
+    {
+        "name": "Seated Pancake (Twist)",
+        "tool": "Bodyweight",
+        "desc": "Sit legs wide. Reach one hand to opposite foot, other arm behind your back."
+    },
+    {
+        "name": "Thread the Needle (Plank)",
+        "tool": "Bodyweight",
+        "desc": "In a high plank, reach one arm under your body and through. Switch sides."
+    },
+    {
+        "name": "Reverse Plank Bridge",
+        "tool": "Bodyweight",
+        "desc": "Fingers toward heels. Drive hips up. Look at the ceiling. Stretch the front shoulders."
+    },
+    {
+        "name": "Happy Baby (Adductor Stretch)",
+        "tool": "Bodyweight",
+        "desc": "On back, grab feet. Try to straighten your legs while holding your feet. Deep groin stretch."
+    },
+    {
+        "name": "Single Leg Calf Raise (Yoga Style)",
+        "tool": "Bodyweight",
+        "desc": "Perform calf raises while in a 'tree pose' balance. Total ankle and hip integration."
+    },
+    {
+        "name": "Superman (W-Shape)",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Lift chest. Pull elbows to ribs in a W-shape. Squeeze shoulder blades."
+    },
+    {
+        "name": "Crab Walk (High Hips)",
+        "tool": "Bodyweight",
+        "desc": "Walk in crab position but keep your hips as high as possible. Hard on the triceps."
+    },
+    {
+        "name": "Child's Pose to Push-up",
+        "tool": "Bodyweight",
+        "desc": "From child's pose, ripple forward into a push-up, then push back. Dynamic flow."
+    },
+    {
+        "name": "Standing Side Lean (Interlaced)",
+        "tool": "Bodyweight",
+        "desc": "Interlace fingers, palms up. Reach high and lean to the side. Stretch the lateral line."
+    },
+    {
+        "name": "Plank (Arm Lift)",
+        "tool": "Bodyweight",
+        "desc": "In plank, lift one arm straight forward. Do not let your shoulders rotate."
+    },
+    {
+        "name": "Sphinx Pose (Neck Circles)",
+        "tool": "Bodyweight",
+        "desc": "On forearms, chest up. Slowly rotate your head in a full circle. Relieves neck tension."
+    },
+    {
+        "name": "L-Sit (Tucked)",
+        "tool": "Bodyweight",
+        "desc": "Easier version of L-Sit. Pull knees to chest while lifting butt off floor with hands."
+    },
+    {
+        "name": "Triangle Pose (Trikonasana)",
+        "tool": "Bodyweight",
+        "desc": "Wide stance. Reach down to one ankle, other hand to sky. Side body and hamstring."
+    },
+    {
+        "name": "Kneeling Psoas Stretch (Arm Reach)",
+        "tool": "Bodyweight",
+        "desc": "Lunge, knee down. Reach arm of the back leg up and lean away from that leg."
+    },
+    {
+        "name": "Dead Bug (Weighted Feel)",
+        "tool": "Bodyweight",
+        "desc": "Dead bug, but imagine you are pushing through thick mud. High internal tension."
+    },
+    {
+        "name": "Wall Sit (Shoulder Press)",
+        "tool": "Wall",
+        "desc": "Perform a wall sit. While sitting, perform overhead press motions against the wall."
+    },
+    {
+        "name": "Wide Leg Forward Fold (Twist)",
+        "tool": "Bodyweight",
+        "desc": "Fold forward with wide legs. Hand on floor in center, reach other to sky."
+    },
+    {
+        "name": "Side Plank (Leg Lift Circles)",
+        "tool": "Bodyweight",
+        "desc": "In side plank, lift the top leg and draw tiny circles. Intense hip stability."
+    },
+    {
+        "name": "Cat-Cow (Elbows Down)",
+        "tool": "Bodyweight",
+        "desc": "Perform cat-cow while on your forearms. Targets the middle (thoracic) spine."
+    },
+    {
+        "name": "Single Leg Stand (Knee Circles)",
+        "tool": "Bodyweight",
+        "desc": "Balance on one leg. Draw a circle in the air with the other knee. Lubricates hip."
+    },
+    {
+        "name": "Prone Leg Lifts",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Lift one straight leg as high as possible. Don't arch your back. Pure glute."
+    },
+    {
+        "name": "Reverse Crunch (Pelvic Lift)",
+        "tool": "Bodyweight",
+        "desc": "On back, legs in air. Lift your tailbone off the floor using only lower abs."
+    },
+    {
+        "name": "Upward Dog (Active Legs)",
+        "tool": "Bodyweight",
+        "desc": "Push up, look up. Squeeze your quads so your knees lift off the floor. Full front stretch."
+    },
+    {
+        "name": "Forward Fold (Heel Lift)",
+        "tool": "Bodyweight",
+        "desc": "In a standing forward fold, shift your weight onto your toes and lift your heels."
+    },
+    {
+        "name": "Side Lying Clamshell (Elevated)",
+        "tool": "Bodyweight",
+        "desc": "On side, lift both feet off floor. Perform clamshells (open knees) from there."
+    },
+    {
+        "name": "Warrior II (Shoulder CARs)",
+        "tool": "Bodyweight",
+        "desc": "Hold Warrior II. While holding, rotate your arms in giant circles from the shoulder."
+    },
+    {
+        "name": "Bear Crawl (Backward Flow)",
+        "tool": "Bodyweight",
+        "desc": "Move backward in bear crawl. This targets the shoulders and triceps differently."
+    },
+    {
+        "name": "Pyramid Pose (Active)",
+        "tool": "Bodyweight",
+        "desc": "One foot forward, one back. Fold over front leg. Lift hands to small of back."
+    },
+    {
+        "name": "Plank (Leg Reach)",
+        "tool": "Bodyweight",
+        "desc": "In plank, lift one leg and reach it 45 degrees to the side. Tap floor, return."
+    },
+    {
+        "name": "Seated Spinal Twist (Open)",
+        "tool": "Bodyweight",
+        "desc": "Sit, knees bent. Reach one arm behind you, other arm to opposite knee. Open chest."
+    },
+    {
+        "name": "Standing Figure-4 (Pulse)",
+        "tool": "Bodyweight",
+        "desc": "Balance, ankle over knee. Sit back into a squat. Pulse gently at the bottom."
+    },
+    {
+        "name": "Goddess Pose (Heel Taps)",
+        "tool": "Bodyweight",
+        "desc": "Wide squat, toes out. Alternate lifting heels as fast as possible. Calf and inner thigh."
+    },
+    {
+        "name": "Fish Pose (Matsyasana)",
+        "tool": "Bodyweight",
+        "desc": "On back. Arch your chest toward the sky, rest the top of your head on the floor."
+    },
+    {
+        "name": "Single Leg Deadlift (Airplane)",
+        "tool": "Bodyweight",
+        "desc": "Hinge on one leg. Reach arms out to the sides like wings. Rotate torso slowly."
+    },
+    {
+        "name": "Wall Slide (L-Shape)",
+        "tool": "Wall",
+        "desc": "Back to wall. Arms in an L-shape (90 deg). Slide them up and down, keeping elbows flat."
+    },
+    {
+        "name": "Prone Hand Hovers",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Lift hands off floor. Move them from your head to your hips and back."
+    },
+    {
+        "name": "Bridge (One Leg March)",
+        "tool": "Bodyweight",
+        "desc": "In a glute bridge, pull one knee to chest, then switch. Keep hips level at all times."
+    },
+    {
+        "name": "Downward Dog (Single Leg)",
+        "tool": "Bodyweight",
+        "desc": "Reach one leg high into the air. Try to keep your shoulders square to the floor."
+    },
+    {
+        "name": "Side Plank (Bottom Leg Lift)",
+        "tool": "Bodyweight",
+        "desc": "Side plank with top foot on floor behind you. Lift the bottom leg. Inner thigh fire."
+    },
+    {
+        "name": "Cobra (Thoracic Focus)",
+        "tool": "Bodyweight",
+        "desc": "Push up into a small cobra. Focus on pulling your chest forward through your arms."
+    },
+    {
+        "name": "Standing Quad Stretch (Active)",
+        "tool": "Bodyweight",
+        "desc": "Hold your foot for a quad stretch. Now try to let go of the foot but keep the leg in place."
+    },
+    {
+        "name": "Reverse Tabletop (Walk-outs)",
+        "tool": "Bodyweight",
+        "desc": "In reverse tabletop, walk your feet forward and back. Keeps the shoulders moving."
+    },
+    {
+        "name": "Plow Pose (Halasana)",
+        "tool": "Bodyweight",
+        "desc": "On back. Bring legs over your head until toes touch the floor behind you. Spine stretch."
+    },
+    {
+        "name": "Single Leg Balance (Hip Circles)",
+        "tool": "Bodyweight",
+        "desc": "Balance on one leg. Move the other hip in a giant circle. Don't touch the floor."
+    },
+    {
+        "name": "Side Plank (Top Arm Reach)",
+        "tool": "Bodyweight",
+        "desc": "In side plank, reach your top arm over your head, parallel to the floor. Long side stretch."
+    },
+    {
+        "name": "Boat Pose (Low to High)",
+        "tool": "Bodyweight",
+        "desc": "Move from a low boat (legs/back near floor) to a high boat (V-shape). Core flow."
+    },
+    {
+        "name": "Cat-Cow (Side to Side)",
+        "tool": "Bodyweight",
+        "desc": "On all fours. Move your hips and head toward each other on the same side. C-shape spine."
+    },
+    {
+        "name": "Downward Dog (Elbow Taps)",
+        "tool": "Bodyweight",
+        "desc": "In downward dog, try to touch your elbows to the floor simultaneously. Lat mobility."
+    },
+    {
+        "name": "Plank (Forearm to Hand)",
+        "tool": "Bodyweight",
+        "desc": "Move from a forearm plank to a high plank and back. Keep your hips from swaying."
+    },
+    {
+        "name": "Standing Side Bend (Overhead)",
+        "tool": "Bodyweight",
+        "desc": "Reach both arms high. Grab your right wrist with your left hand. Pull and lean."
+    },
+    {
+        "name": "Reverse Tabletop (Knee Tucks)",
+        "tool": "Bodyweight",
+        "desc": "In reverse tabletop, pull one knee to your chest. Hold 2s. Switch sides."
+    },
+    {
+        "name": "The Final Breath (Lion’s Breath)",
+        "tool": "Breath",
+        "desc": "Inhale deep. Exhale hard through your mouth with your tongue out. Face and jaw relief."
+    }
+]

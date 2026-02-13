@@ -1,0 +1,482 @@
+[
+    {
+        "name": "The Golden Urn",
+        "tool": "Bodyweight",
+        "desc": "Interlace fingers, palms up. Reach to sky, then circle your torso like you're scraping the inside of a giant bowl."
+    },
+    {
+        "name": "Drawing the Bow",
+        "tool": "Bodyweight",
+        "desc": "Step into a wide stance. Mimic pulling a heavy bow string back, opening your chest and twisting your neck."
+    },
+    {
+        "name": "Knees to Heavens",
+        "tool": "Bodyweight",
+        "desc": "Slowly lift one knee as high as possible while reaching the opposite hand to the sky. Balance and length."
+    },
+    {
+        "name": "Touching the Toes (Ancient Style)",
+        "tool": "Bodyweight",
+        "desc": "Hinge down, but instead of reaching for toes, try to place your palms flat on the floor. Hold 1 min."
+    },
+    {
+        "name": "The Thousand Steps",
+        "tool": "Bodyweight",
+        "desc": "Walk in place, but with every step, focus on rolling the foot from heel to toe with extreme intent."
+    },
+    {
+        "name": "Plucking the Stars",
+        "tool": "Bodyweight",
+        "desc": "Reach one hand high and one hand low. Imagine you are stretching your spine from both ends."
+    },
+    {
+        "name": "The Wise Owl",
+        "tool": "Bodyweight",
+        "desc": "Rotate your head to look behind you while pulling your shoulder blades together. Reverses hunching."
+    },
+    {
+        "name": "The Archer’s Pose",
+        "tool": "Bodyweight",
+        "desc": "Wide stance. Turn one foot out. Reach arms out and imagine pulling a massive bow string."
+    },
+    {
+        "name": "Circling the Hips (Old Style)",
+        "tool": "Bodyweight",
+        "desc": "Hands on lower back. Draw the largest circle possible with your hips. Lubricates the L5-S1."
+    },
+    {
+        "name": "The Heavens-Earth Press",
+        "tool": "Bodyweight",
+        "desc": "One hand pushes up, one hand pushes down. Imagine you are separating the sky and the floor."
+    },
+    {
+        "name": "The Flowing Stream",
+        "tool": "Bodyweight",
+        "desc": "Move your arms as if you are moving through water. No tension, just smooth, continuous motion."
+    },
+    {
+        "name": "The Great Pivot",
+        "tool": "Bodyweight",
+        "desc": "Stand tall. Pivot on your heels 180 degrees without leaning. Pure balance and hip rotation."
+    },
+    {
+        "name": "The Mountain Stand",
+        "tool": "Bodyweight",
+        "desc": "Stand perfectly still for 5 minutes. Distribute weight evenly. The ultimate stillness test."
+    },
+    {
+        "name": "The Finger-Tap Scale",
+        "tool": "Bodyweight",
+        "desc": "Tap thumb to index, middle, ring, pinky, then reverse. Try different patterns on each hand."
+    },
+    {
+        "name": "The 'Eyes-Lead' Neck Circle",
+        "tool": "Bodyweight",
+        "desc": "Move head in a circle, but eyes must reach the next 'corner' before the head does."
+    },
+    {
+        "name": "The 'Mirror' Wrist Circle",
+        "tool": "Bodyweight",
+        "desc": "Rotate one wrist clockwise and the other counter-clockwise. Switch directions mid-motion."
+    },
+    {
+        "name": "The 'Alphabet' Spine",
+        "tool": "Bodyweight",
+        "desc": "Try to 'write' the letter A with your hips, B with your ribs, C with your neck. Slow and controlled."
+    },
+    {
+        "name": "The Nose-Figure-8",
+        "tool": "Bodyweight",
+        "desc": "Draw a small figure-8 with the tip of your nose. Then draw a giant one. Improves cervical glide."
+    },
+    {
+        "name": "The 'Opposite' Hand Circle",
+        "tool": "Bodyweight",
+        "desc": "Draw a circle with your hand and a square with your foot on the same side at the same time."
+    },
+    {
+        "name": "The 'Clock' Foot Reach",
+        "tool": "Bodyweight",
+        "desc": "Stand on one leg. Touch your other foot to 12, 3, 6, and 9 o'clock. Don't fall."
+    },
+    {
+        "name": "The 'Double-Hand' Writing",
+        "tool": "Bodyweight",
+        "desc": "Try to draw a circle with your right hand and a line with your left hand at the same time."
+    },
+    {
+        "name": "The 'Rhythm' Tap",
+        "tool": "Bodyweight",
+        "desc": "Tap: 1-2, 1-2-3, 1. Create a beat with your feet while moving your head side to side."
+    },
+    {
+        "name": "The 'Counter' Rotate",
+        "tool": "Bodyweight",
+        "desc": "Rotate your head left and your hips right. Now switch. Coordination for the whole spine."
+    },
+    {
+        "name": "The Finger-to-Nose Riddle",
+        "tool": "Bodyweight",
+        "desc": "Close eyes. Touch your nose, then touch your left ear, then your right. Precision without sight."
+    },
+    {
+        "name": "The Cross-Hand Tap",
+        "tool": "Bodyweight",
+        "desc": "Tap your right hand to left foot, then left hand to right foot. Faster. Faster."
+    },
+    {
+        "name": "Seated Arch Lift",
+        "tool": "Bodyweight",
+        "desc": "While sitting, pull ball of foot toward heel without curling toes. Stealth foot core."
+    },
+    {
+        "name": "The Desk-Press Isometric",
+        "tool": "Desk",
+        "desc": "Place hands under desk. Try to 'lift' it for 10s. Activates lats/triceps without moving."
+    },
+    {
+        "name": "Under-Table Toe Splay",
+        "tool": "Bodyweight",
+        "desc": "Spread toes wide inside shoes. Hold 5s. Do it 10 times during a call."
+    },
+    {
+        "name": "The Stealth Glute Pulse",
+        "tool": "Bodyweight",
+        "desc": "Squeeze left glute, then right, then both. Fast. Keeps blood flowing while sitting."
+    },
+    {
+        "name": "The 'Meeting' Chin Tuck",
+        "tool": "Bodyweight",
+        "desc": "Pull head straight back to create a double chin. Reverses 'Forward Head Posture'."
+    },
+    {
+        "name": "The 'Hidden' Pec Stretch",
+        "tool": "Chair",
+        "desc": "Interlace fingers behind back while sitting. Lean forward slightly. Opens the chest."
+    },
+    {
+        "name": "The Stealth Shoulder Shrug",
+        "tool": "Bodyweight",
+        "desc": "Pull shoulders to ears, hold 5s, then pull them down to back pockets. Reset posture."
+    },
+    {
+        "name": "The Stealth Calf Stretch",
+        "tool": "Bodyweight",
+        "desc": "While standing, place one foot back and press the heel down. Invisible mobility."
+    },
+    {
+        "name": "The Stealth Hip Flexor Stretch",
+        "tool": "Chair",
+        "desc": "Sit at edge of chair. Drop one knee toward floor behind you. Lean back."
+    },
+    {
+        "name": "The Stealth Wrist Circle",
+        "tool": "Bodyweight",
+        "desc": "Rotate wrists slowly under table. Smooth out any 'clicking' or 'catching'."
+    },
+    {
+        "name": "The Stealth Pelvic Floor Lift",
+        "tool": "Bodyweight",
+        "desc": "Squeeze/lift pelvic floor. Hold 10s. Foundation of deep core stability."
+    },
+    {
+        "name": "The Stealth Belly Wave",
+        "tool": "Bodyweight",
+        "desc": "Try to move only upper abs, then lower abs in a wave. Internal massage."
+    },
+    {
+        "name": "The Stealth Rib Shift",
+        "tool": "Bodyweight",
+        "desc": "Slide ribcage left and right while sitting. Wakes up obliques and QL muscle."
+    },
+    {
+        "name": "The Komodo Walk",
+        "tool": "Bodyweight",
+        "desc": "In low plank, crawl forward keeping hips as low as possible. Elbows close to ribs."
+    },
+    {
+        "name": "The Traveling Ape",
+        "tool": "Bodyweight",
+        "desc": "Deep squat. Place hands to side and hop feet over them. Lateral hip mobility."
+    },
+    {
+        "name": "The Crab Reach",
+        "tool": "Bodyweight",
+        "desc": "From crab, drive hips up and reach one arm over head and toward the floor behind you."
+    },
+    {
+        "name": "The Loaded Beast",
+        "tool": "Bodyweight",
+        "desc": "From all fours, push hips back toward heels, knees 1 inch off floor. Full body tension."
+    },
+    {
+        "name": "The Scorpion Reach",
+        "tool": "Bodyweight",
+        "desc": "Lie on stomach. Reach one foot across body to touch floor on opposite side."
+    },
+    {
+        "name": "The Bear Crawl (Static)",
+        "tool": "Bodyweight",
+        "desc": "On all fours, knees 1 inch off floor. Hold for 60s. Teaches core spinal support."
+    },
+    {
+        "name": "The Frog Squat Pulse",
+        "tool": "Bodyweight",
+        "desc": "Bottom of squat. Hands on floor. Straighten legs, then sink back down."
+    },
+    {
+        "name": "The Ape Reach",
+        "tool": "Bodyweight",
+        "desc": "Deep squat. Reach arms forward as far as possible while keeping heels on floor."
+    },
+    {
+        "name": "The Side-Kick Through",
+        "tool": "Bodyweight",
+        "desc": "From beast, rotate/kick one leg through. Supporting hand and foot stay glued."
+    },
+    {
+        "name": "The Crocodile Breath",
+        "tool": "Bodyweight",
+        "desc": "Face down, forehead on hands. Breathe so belly pushes into floor. Fixes shallow breathing."
+    },
+    {
+        "name": "The Beast Reach",
+        "tool": "Bodyweight",
+        "desc": "From beast, lift one arm and opposite leg. Reach them away from each other. Balance."
+    },
+    {
+        "name": "The Underswitch",
+        "tool": "Bodyweight",
+        "desc": "From beast, lift hand/foot, rotate body underneath, land in crab position."
+    },
+    {
+        "name": "The 'Heavy Book' Overhead Hold",
+        "tool": "Weighted",
+        "desc": "Hold heavy book overhead one hand. Walk for 60s. Shoulder girdle stability."
+    },
+    {
+        "name": "The Bottle-Pass RDL",
+        "tool": "Weighted",
+        "desc": "Hinge on one leg. Pass water bottle from left hand to right hand under body."
+    },
+    {
+        "name": "Backpack Side-Bend",
+        "tool": "Weighted",
+        "desc": "Hold backpack one hand. Lean toward it, pull back up using only side-waist."
+    },
+    {
+        "name": "The Shoe-Balance Squat",
+        "tool": "Weighted",
+        "desc": "Place shoe on closed fist. Reach it overhead. Squat without shoe falling."
+    },
+    {
+        "name": "The Water Bottle Halo",
+        "tool": "Weighted",
+        "desc": "Circle water bottle around head. Keep neck and core perfectly still."
+    },
+    {
+        "name": "The Backpack Overhead Squat",
+        "tool": "Weighted",
+        "desc": "Hold backpack overhead. Perform squat. High-level mobility and core test."
+    },
+    {
+        "name": "The 'Heavy Book' Press",
+        "tool": "Weighted",
+        "desc": "Sit tall. Press heavy book overhead. At top, shrug shoulders to ceiling."
+    },
+    {
+        "name": "The Bottle-Balance Walk",
+        "tool": "Weighted",
+        "desc": "Balance water bottle on head. Walk 20 steps. Forces perfect spinal alignment."
+    },
+    {
+        "name": "The Backpack Halo (Weighted)",
+        "tool": "Weighted",
+        "desc": "Circle backpack around head. High-tension core and shoulder work."
+    },
+    {
+        "name": "Tibialis Wall Lean",
+        "tool": "Wall",
+        "desc": "Lean back against wall. Lift toes as high as possible. Protects the knees."
+    },
+    {
+        "name": "First Rib Towel Pull",
+        "tool": "Towel",
+        "desc": "Loop towel over shoulder. Pull down while tilting head away. Clears arm nerve path."
+    },
+    {
+        "name": "The Doorway Pec Smash",
+        "tool": "Wall",
+        "desc": "Lean chest into edge of doorway. Move arm up and down to 'shear' tight muscle."
+    },
+    {
+        "name": "The Scalene Stretch",
+        "tool": "Bodyweight",
+        "desc": "Sit on hand. Tilt head away and look up. Stretches deep neck muscles."
+    },
+    {
+        "name": "Ankle Dorsiflexion Wall-Rock",
+        "tool": "Wall",
+        "desc": "Toes against wall. Drive knee forward to touch wall. Increase distance over time."
+    },
+    {
+        "name": "The 'Short Foot' Exercise",
+        "tool": "Bodyweight",
+        "desc": "Try to make foot shorter by pulling ball toward heel. Build the medial arch."
+    },
+    {
+        "name": "The 'Wall' Calf Smash",
+        "tool": "Wall",
+        "desc": "Ball of foot on wall, heel on floor. Lean weight into wall. Intense stretch."
+    },
+    {
+        "name": "The Scapular Wall-Slide",
+        "tool": "Wall",
+        "desc": "Back to wall. Arms in 'W'. Slide to 'V' and back. Shoulder health gold."
+    },
+    {
+        "name": "The Jaw-Hinge Massage",
+        "tool": "Bodyweight",
+        "desc": "Find masseter (jaw hinge). Massage with fingers while opening/closing mouth."
+    },
+    {
+        "name": "The Doorway Lat Stretch",
+        "tool": "Doorway",
+        "desc": "Grab doorway high. Lean hips away. Breathe into the side of the ribcage."
+    },
+    {
+        "name": "The Scalp Release",
+        "tool": "Bodyweight",
+        "desc": "Use fingertips to vigorously move skin of scalp. Releases tension in fascia."
+    },
+    {
+        "name": "The 'Wall' Ankle Rock",
+        "tool": "Wall",
+        "desc": "Toes against wall. Drive knee toward wall. Increases ankle range for walking."
+    },
+    {
+        "name": "The Threaded Needle (Dynamic)",
+        "tool": "Bodyweight",
+        "desc": "From all fours, slide arm under/through, then reach same arm to sky. Follow eyes."
+    },
+    {
+        "name": "The Lion’s Breath",
+        "tool": "Breath",
+        "desc": "Inhale deep, exhale forcefully with tongue out and eyes wide. Releases jaw."
+    },
+    {
+        "name": "90/90 Diaphragmatic Breath",
+        "tool": "Bodyweight",
+        "desc": "Back on floor, feet on wall, knees 90. Breathe into lower back. Calms nerves."
+    },
+    {
+        "name": "The 'Empty' Coat Sleeve",
+        "tool": "Bodyweight",
+        "desc": "Stand wide. Twist torso and let arms flop/hit hips. Relaxes the spine."
+    },
+    {
+        "name": "The 'Ocean' Breath",
+        "tool": "Breath",
+        "desc": "Inhale nose. Exhale 'Haaa' sound with mouth closed. Calming vibration."
+    },
+    {
+        "name": "The 'Hollow Body' Hang",
+        "tool": "Pull-up Bar",
+        "desc": "Hang from bar. Tuck tailbone, pull ribs down. Trains 'strong' posture."
+    },
+    {
+        "name": "The Standing Forward Fold (Heavy)",
+        "tool": "Bodyweight",
+        "desc": "Fold forward. Arms heavy. Shake head 'Yes' and 'No' to release neck."
+    },
+    {
+        "name": "The Child's Pose (Lat Variation)",
+        "tool": "Bodyweight",
+        "desc": "In child's pose, walk hands left and breathe into right side of ribs."
+    },
+    {
+        "name": "The Cat-Cow (Forearm)",
+        "tool": "Bodyweight",
+        "desc": "Perform cat-cow on forearms. Focuses movement on the middle spine."
+    },
+    {
+        "name": "The Standing 'T' Twist",
+        "tool": "Bodyweight",
+        "desc": "Arms out in T. Rotate torso as far as possible. Follow back hand with eyes."
+    },
+    {
+        "name": "The Forward Fold (Bent Knee)",
+        "tool": "Bodyweight",
+        "desc": "Fold forward, bend knees until chest touches thighs. Relaxes lower back safely."
+    },
+    {
+        "name": "The Savasana Breath",
+        "tool": "Breath",
+        "desc": "Lie flat. Inhale 4s, hold 4s, exhale 8s. Complete nervous system reset."
+    },
+    {
+        "name": "The Pogo Hop (Lateral)",
+        "tool": "Bodyweight",
+        "desc": "Keep legs straight. Hop side-to-side using only ankles. Reactive tendon 'spring'."
+    },
+    {
+        "name": "The Seal Clap",
+        "tool": "Bodyweight",
+        "desc": "Jump/clap hands in front and then behind back. Tests shoulder speed."
+    },
+    {
+        "name": "The Cross-Crawl March",
+        "tool": "Bodyweight",
+        "desc": "March in place, touching opposite elbow to knee. Brain-body connection."
+    },
+    {
+        "name": "The Lateral Lunge Hop",
+        "tool": "Bodyweight",
+        "desc": "Perform side lunge, then explosively hop to other side. Power and mobility."
+    },
+    {
+        "name": "The Skater Leap",
+        "tool": "Bodyweight",
+        "desc": "Jump side to side. Land softly and hold 1s. Glute stability."
+    },
+    {
+        "name": "The High Knee Skip",
+        "tool": "Bodyweight",
+        "desc": "Skip in place, pulling knees as high as possible. Explosive hip flexion."
+    },
+    {
+        "name": "The Butt-Kick Jog",
+        "tool": "Bodyweight",
+        "desc": "Jog in place, kicking heels to glutes. Dynamically stretches the quads."
+    },
+    {
+        "name": "The Lateral Shuffle",
+        "tool": "Bodyweight",
+        "desc": "Stay low in semi-squat. Move side to side quickly. Wakes up lateral hips."
+    },
+    {
+        "name": "The Seal Jack",
+        "tool": "Bodyweight",
+        "desc": "Jumping jack, but arms clap in front of chest. Opens the chest."
+    },
+    {
+        "name": "The Ankle Circle (Speed)",
+        "tool": "Bodyweight",
+        "desc": "Draw circle with foot as fast as possible for 30s. Builds ankle endurance."
+    },
+    {
+        "name": "The Pogo Hop (Forward/Back)",
+        "tool": "Bodyweight",
+        "desc": "Jump over imaginary line forward/back using only balls of feet."
+    },
+    {
+        "name": "The Star Jack",
+        "tool": "Bodyweight",
+        "desc": "Explosive jumping jack. In air, reach arms and legs as wide as possible into a star."
+    },
+    {
+        "name": "The 1000th Ripple",
+        "tool": "Bodyweight",
+        "desc": "Shake entire body from toes to head for 60 seconds. You are mobile. You are finished."
+    }
+]

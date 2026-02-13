@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Combat Stance Switch",
+    "tool": "Bodyweight",
+    "desc": "Drop into a low lunge, rotate 180 degrees on your heels without standing up. Ninja hips."
+  },
+  {
+    "name": "Seated 90/90 Hover",
+    "tool": "Bodyweight",
+    "desc": "In 90/90, lift both hands. Try to lift your front knee 1 inch off the floor. Internal strength."
+  },
+  {
+    "name": "The Crouching Tiger",
+    "tool": "Bodyweight",
+    "desc": "From a deep squat, crawl forward as low as possible, belly almost touching the floor."
+  },
+  {
+    "name": "Stealth Under-Desk Toe Crunch",
+    "tool": "Inner Rhythm",
+    "desc": "While seated, curl your toes into the floor like you're trying to grab a pencil. Arch health."
+  },
+  {
+    "name": "Standing Knee Circle (The Gate)",
+    "tool": "Bodyweight",
+    "desc": "Lift knee to chest, open it wide to the side, and rotate it back down. Lubricates the socket."
+  },
+  {
+    "name": "The Stealth Shrug",
+    "tool": "Bodyweight",
+    "desc": "In a meeting: pull shoulders to ears, hold 5s, then drop them and pull blades down. Neck relief."
+  },
+  {
+    "name": "Shin Box to Combat Lunge",
+    "tool": "Bodyweight",
+    "desc": "From 90/90, drive hips up and step one leg forward into a lunge in one smooth motion."
+  },
+  {
+    "name": "Knuckle Plank Hold",
+    "tool": "Bodyweight",
+    "desc": "Hold a plank on your knuckles. Aligns the wrist and toughens the hand structure."
+  },
+  {
+    "name": "The Invisible Chair Lift",
+    "tool": "Chair",
+    "desc": "Seated. Press hands into the chair and lift your butt 1 inch. Hold for 10s. Secret tricep work."
+  },
+  {
+    "name": "Wall-Supported High Kick Prep",
+    "tool": "Wall",
+    "desc": "Hand on wall. Lift leg to the side at hip height. Pulse it up 1 inch, 20 times. Hip power."
+  },
+  {
+    "name": "The 'Meeting' Ankle Pump",
+    "tool": "Bodyweight",
+    "desc": "While seated, lift heels, then lift toes. Repeat 50 times to prevent blood pooling."
+  },
+  {
+    "name": "Cossack Flow (Low)",
+    "tool": "Bodyweight",
+    "desc": "Slide side to side in deep lateral lunges. Your head should stay at the same height the whole time."
+  },
+  {
+    "name": "Primal Scapular Reach",
+    "tool": "Bodyweight",
+    "desc": "On all fours. Reach one arm as far forward as possible while keeping the other elbow locked."
+  },
+  {
+    "name": "Stealth Glute Squeeze",
+    "tool": "Bodyweight",
+    "desc": "Squeeze your left glute for 5s, then right. Do it while standing in line. Nobody knows."
+  },
+  {
+    "name": "The Archer Row (No Weight)",
+    "tool": "Bodyweight",
+    "desc": "Reach one arm forward, pull the other back hard. Squeeze the shoulder blade like you're pulling a 100lb bow."
+  },
+  {
+    "name": "Seated Spinal Ripple",
+    "tool": "Chair",
+    "desc": "Start a wave from your tailbone that travels up to your head while sitting. Liquid spine."
+  },
+  {
+    "name": "The Stealth Pec Stretch",
+    "tool": "Chair",
+    "desc": "Interlace fingers behind your back while sitting. Lean forward slightly and lift hands."
+  },
+  {
+    "name": "Tiger Paw Wrist Stretch",
+    "tool": "Floor",
+    "desc": "On all fours. Fingers curled like a claw. Gently lean weight into the 'paws'."
+  },
+  {
+    "name": "Kneeling Heel Sit (Toes Tucked)",
+    "tool": "Bodyweight",
+    "desc": "The 'Ninja Rest'. Sit on your heels with toes tucked. Toughens the feet for impact."
+  },
+  {
+    "name": "Lateral Ape (High Velocity)",
+    "tool": "Bodyweight",
+    "desc": "Hands down, hop feet across. Try to stay in the air as long as possible. Wrist stability."
+  },
+  {
+    "name": "The Stealth Neck Pivot",
+    "tool": "Bodyweight",
+    "desc": "Slowly look over your shoulder during a conversation. Move from the very top of the spine."
+  },
+  {
+    "name": "Knee-to-Shoulder Pull",
+    "tool": "Bodyweight",
+    "desc": "Lying on back. Pull knee to the SAME side shoulder. Hits the deep hip flexors."
+  },
+  {
+    "name": "The Dragon Squat",
+    "tool": "Bodyweight",
+    "desc": "Cross one leg behind the other and squat until the back knee is near the front heel. Balance king."
+  },
+  {
+    "name": "Stealth Wrist Circles",
+    "tool": "Bodyweight",
+    "desc": "Hands under the table. Interlace fingers and roll the wrists in a smooth '8' pattern."
+  },
+  {
+    "name": "The Cat Stretch (Standing)",
+    "tool": "Wall",
+    "desc": "Hands on wall. Round your back, then arch it. Segmental movement without the floor."
+  },
+  {
+    "name": "Single Leg RDL Reach",
+    "tool": "Bodyweight",
+    "desc": "Hinge on one leg. Reach hands forward like you're grabbing a ninja sword. Long line."
+  },
+  {
+    "name": "The Stealth Calf Pulse",
+    "tool": "Bodyweight",
+    "desc": "Standing in a meeting. Lift heels 1/2 inch off the floor and hold. Subtle but effective."
+  },
+  {
+    "name": "Tripod Extension",
+    "tool": "Bodyweight",
+    "desc": "From beast, lift one arm and opposite leg. Reach them away from each other. Balance."
+  },
+  {
+    "name": "The Ninja Roll (Slow)",
+    "tool": "Floor",
+    "desc": "Roll from your back to your stomach without using your hands. Pure core and coordination."
+  },
+  {
+    "name": "Stealth Ribcage Shift",
+    "tool": "Bodyweight",
+    "desc": "While sitting, slide your ribcage left and right without moving your hips. Hits the QL muscle."
+  },
+  {
+    "name": "Ape Reach to Stand",
+    "tool": "Bodyweight",
+    "desc": "Deep squat ape reach, then drive through heels to stand while keeping arms reaching forward."
+  },
+  {
+    "name": "The Stealth Forearm Flex",
+    "tool": "Bodyweight",
+    "desc": "Make a fist, squeeze hard for 10s, then splay fingers wide. Do this 10 times under the desk."
+  },
+  {
+    "name": "Single-Leg Balance (Knee Out)",
+    "tool": "Bodyweight",
+    "desc": "Stand on one leg. Lift the other knee and point it 90 degrees to the side. Hold 30s."
+  },
+  {
+    "name": "The Stealth Pelvic Tilt",
+    "tool": "Chair",
+    "desc": "Sit tall. Tuck your tailbone, then arch your back. Small movements to keep the discs hydrated."
+  },
+  {
+    "name": "Beast to Downward Dog",
+    "tool": "Bodyweight",
+    "desc": "From a hovering beast, push hips back and up into a pike. Stretch the lats and calves."
+  },
+  {
+    "name": "The Stealth Ear-to-Shoulder",
+    "tool": "Bodyweight",
+    "desc": "Tilt head slowly. Use your mind to imagine the muscle lengthening. No hands needed."
+  },
+  {
+    "name": "Shin Box Extension",
+    "tool": "Bodyweight",
+    "desc": "In 90/90, drive hips up until you are kneeling tall. Squeeze glutes at the top."
+  },
+  {
+    "name": "The Stealth Thumb Stretch",
+    "tool": "Bodyweight",
+    "desc": "Tuck your thumb into your palm, wrap fingers over it, and tilt your wrist down. Relief for scrollers."
+  },
+  {
+    "name": "Side Kick Isometric Hold",
+    "tool": "Bodyweight",
+    "desc": "Hold your leg out to the side as high as possible. Try to keep it there for 20 seconds."
+  },
+  {
+    "name": "The Stealth Big Toe Press",
+    "tool": "Bodyweight",
+    "desc": "While standing, press only your big toes into the floor. Feel your arch wake up."
+  },
+  {
+    "name": "Loaded Beast to Front Step",
+    "tool": "Bodyweight",
+    "desc": "From loaded beast, spring forward and land one foot outside your hand in a deep lunge."
+  },
+  {
+    "name": "Stealth Shoulder Blade Circles",
+    "tool": "Bodyweight",
+    "desc": "Move your shoulder blades in a circle without moving your arms. Pure ninja posture."
+  },
+  {
+    "name": "The 'Hidden' Hamstring Stretch",
+    "tool": "Chair",
+    "desc": "Sit at the edge of your chair. Extend one leg, heel down. Lean forward 1 inch. Feel the pull."
+  },
+  {
+    "name": "Crab to Tabletop",
+    "tool": "Bodyweight",
+    "desc": "From a crab position, drive hips up until your torso is parallel to the floor. Open shoulders."
+  },
+  {
+    "name": "The Stealth Chin Tuck",
+    "tool": "Bodyweight",
+    "desc": "Pull your head back like you're making a double chin. Realigns the spine with the skull."
+  },
+  {
+    "name": "Ninja Landing (Static)",
+    "tool": "Bodyweight",
+    "desc": "Hold the bottom of a squat on your toes. Balance with fingertips on the floor."
+  },
+  {
+    "name": "Stealth Jaw Release",
+    "tool": "Bodyweight",
+    "desc": "Place the tip of your tongue on your palate and open your mouth slightly. Relaxes the face."
+  },
+  {
+    "name": "The 'Ninja' Finger Plank",
+    "tool": "Wall",
+    "desc": "Leaning against a wall, hold yourself up with only your fingertips. Incredible for grip health."
+  },
+  {
+    "name": "Stealth Diaphragm Breath",
+    "tool": "Bodyweight",
+    "desc": "Breathe so only your belly moves, not your chest. Calm the ninja mind."
+  },
+  {
+    "name": "The Spider-Man Step (Static)",
+    "tool": "Bodyweight",
+    "desc": "Lunge forward, back knee off floor. Drop both elbows to the inside of the front foot."
+  },
+  {
+    "name": "The Stealth Leg Extension",
+    "tool": "Chair",
+    "desc": "While sitting, straighten one leg under the desk and hold for 10s. Keep the quad awake."
+  },
+  {
+    "name": "Underswitch (Slow Motion)",
+    "tool": "Bodyweight",
+    "desc": "Perform an underswitch so slowly that it takes 10 seconds to complete. Pure stability."
+  },
+  {
+    "name": "Stealth Tricep Stretch",
+    "tool": "Chair",
+    "desc": "Reach one hand behind your neck. Use the headrest of your chair to gently push your elbow back."
+  },
+  {
+    "name": "The Samurai Knee Sit",
+    "tool": "Bodyweight",
+    "desc": "Kneel with tops of feet flat. Sit on heels. The classic Seiza position for ankle health."
+  },
+  {
+    "name": "Stealth Eye Focus",
+    "tool": "Inner Rhythm",
+    "desc": "Look at something far away, then something 1 inch from your nose. Exercises the ciliary muscles."
+  },
+  {
+    "name": "Beast Shoulder Taps (Ninja)",
+    "tool": "Bodyweight",
+    "desc": "In beast, tap opposite shoulder. Imagine a glass of water on your back—don't spill a drop."
+  },
+  {
+    "name": "Stealth Wrist Flexion",
+    "tool": "Bodyweight",
+    "desc": "Make a fist, bend the wrist inward. Hold. Great for counter-acting typing fatigue."
+  },
+  {
+    "name": "The Dragon Walk (Static)",
+    "tool": "Bodyweight",
+    "desc": "Hold a deep, crossed-leg squat. Stay as low as possible for 30 seconds."
+  },
+  {
+    "name": "Stealth Mid-Back Squeeze",
+    "tool": "Bodyweight",
+    "desc": "Try to touch your elbows together behind your back. Opens the chest instantly."
+  },
+  {
+    "name": "Kettlebell Halo (Ninja Style)",
+    "tool": "Kettlebell",
+    "desc": "In a kneeling 'combat' stance, circle the weight around your head. Stability under pressure."
+  },
+  {
+    "name": "The Stealth Ankle Roll",
+    "tool": "Bodyweight",
+    "desc": "While sitting, lift one foot and draw a circle with your heel, not your toes."
+  },
+  {
+    "name": "Primal Bear to Crab Transition",
+    "tool": "Bodyweight",
+    "desc": "Flow from bear to crab and back without your butt ever touching the ground."
+  },
+  {
+    "name": "Stealth Elbow Circles",
+    "tool": "Bodyweight",
+    "desc": "Arms at sides. Rotate only the forearms in a circle from the elbow joint."
+  },
+  {
+    "name": "The Ninja Bridge",
+    "tool": "Bodyweight",
+    "desc": "From your back, push up into a full bridge. Hold for 3 breaths and lower slowly."
+  },
+  {
+    "name": "Stealth Quadricep Squeeze",
+    "tool": "Bodyweight",
+    "desc": "Squeeze your quads as hard as possible for 10s while sitting. Keeps the knees stable."
+  },
+  {
+    "name": "Lateral Beast (Ninja Speed)",
+    "tool": "Bodyweight",
+    "desc": "Move sideways in beast position as fast as possible for 10 feet, then stop instantly."
+  },
+  {
+    "name": "Stealth Forehead Press",
+    "tool": "Bodyweight",
+    "desc": "Press your palm into your forehead; resist with your neck. Isometric neck strength."
+  },
+  {
+    "name": "The Samurai Sword Reach",
+    "tool": "Bodyweight",
+    "desc": "Lunge. Reach one arm across your body and up to the sky. Stretches the lateral line."
+  },
+  {
+    "name": "Stealth Foot Scrunch",
+    "tool": "Bodyweight",
+    "desc": "Try to 'shorten' your foot by pulling the ball toward the heel. Do it inside your shoes."
+  },
+  {
+    "name": "Beast to Scorpion Flow",
+    "tool": "Bodyweight",
+    "desc": "From beast, lift one leg and rotate it all the way over until you are in a bridge."
+  },
+  {
+    "name": "Stealth Chest Expansion",
+    "tool": "Bodyweight",
+    "desc": "Inhale deeply into your collarbones. Hold 5s. Feel the upper ribs open."
+  },
+  {
+    "name": "The Ninja Pivot (Standing)",
+    "tool": "Bodyweight",
+    "desc": "Stand. Pivot 180 on the balls of your feet. Stay perfectly upright. Balance."
+  },
+  {
+    "name": "Stealth Hand Clench",
+    "tool": "Bodyweight",
+    "desc": "Clench hands into fists, then splay fingers as hard as possible. 20 reps."
+  },
+  {
+    "name": "Single Leg Squat (Ninja Variation)",
+    "tool": "Bodyweight",
+    "desc": "Squat on one leg, reaching the other leg forward and arms back. Pure counter-balance."
+  },
+  {
+    "name": "Stealth Ear-to-Shoulder (Slow)",
+    "tool": "Bodyweight",
+    "desc": "Tilt your head 1 millimeter per second. Find the exact spot of tension."
+  },
+  {
+    "name": "The Crouching Monkey",
+    "tool": "Bodyweight",
+    "desc": "Deep squat. Shift your weight onto your toes and bounce gently. Ankle spring."
+  },
+  {
+    "name": "Stealth Pelvic Floor Lift",
+    "tool": "Bodyweight",
+    "desc": "The ultimate hidden exercise. Lift the pelvic floor, hold 5s, release. Core foundation."
+  },
+  {
+    "name": "Beast Kick-Through (Slow)",
+    "tool": "Bodyweight",
+    "desc": "Rotate and kick your leg through. Hold the end position for 3 seconds. Tension!"
+  },
+  {
+    "name": "Stealth Shoulder Roll (One side)",
+    "tool": "Bodyweight",
+    "desc": "Roll only the right shoulder. Then only the left. De-couples the spine."
+  },
+  {
+    "name": "The Ninja Plank",
+    "tool": "Bodyweight",
+    "desc": "Plank position on elbows. Pull your elbows toward your toes without moving. High tension."
+  },
+  {
+    "name": "Stealth Belly Wave",
+    "tool": "Bodyweight",
+    "desc": "Try to move your upper abs, then lower abs in a wave. Internal organ massage."
+  },
+  {
+    "name": "Cossack Squat (Ninja Reach)",
+    "tool": "Bodyweight",
+    "desc": "Deep lateral lunge. Reach arms in the opposite direction of the lunge."
+  },
+  {
+    "name": "Stealth Finger Stretch",
+    "tool": "Bodyweight",
+    "desc": "Press each finger individually against the edge of the desk. Stretches the tendons."
+  },
+  {
+    "name": "The Samurai Lunge",
+    "tool": "Bodyweight",
+    "desc": "Deep lunge. Arms straight up. Look up at the ceiling. Stretch the whole front chain."
+  },
+  {
+    "name": "Stealth Neck Side-Slide",
+    "tool": "Bodyweight",
+    "desc": "Move your head side to side like a pigeon without tilting. Improves cervical gliding."
+  },
+  {
+    "name": "Beast to Alternating Kick",
+    "tool": "Bodyweight",
+    "desc": "From beast, jump and switch which leg is kicking through the window."
+  },
+  {
+    "name": "Stealth Lower Back Press",
+    "tool": "Chair",
+    "desc": "Press your lower back into the chair as hard as possible. Engages the deep core."
+  },
+  {
+    "name": "The Ninja Crouch (Heels Down)",
+    "tool": "Bodyweight",
+    "desc": "Squat so deep your hamstrings touch your calves. Keep heels flat. The goal of all mobility."
+  },
+  {
+    "name": "Stealth Upper Trap Release",
+    "tool": "Bodyweight",
+    "desc": "Shrug shoulders, hold, then exhale and imagine them melting into the floor."
+  },
+  {
+    "name": "Ape Side-Shift",
+    "tool": "Bodyweight",
+    "desc": "In a deep squat, shift your weight left and right without your head moving up."
+  },
+  {
+    "name": "Stealth Wrist Extension (Table)",
+    "tool": "Chair",
+    "desc": "Press your palms together under the table. Push hard to stretch the wrists."
+  },
+  {
+    "name": "The Ninja Balance (Toe-to-Heel)",
+    "tool": "Bodyweight",
+    "desc": "Stand with one foot directly in front of the other. Close eyes. Hold for 30s."
+  },
+  {
+    "name": "Stealth Ribcage Expansion",
+    "tool": "Bodyweight",
+    "desc": "Breathe into your back. Try to feel your shirt tighten against your shoulder blades."
+  },
+  {
+    "name": "Loaded Beast to Cobra",
+    "tool": "Bodyweight",
+    "desc": "Flow from the back-loaded position directly into a high chest upward dog."
+  },
+  {
+    "name": "Stealth Neck Extension",
+    "tool": "Bodyweight",
+    "desc": "Gently look up at the ceiling. Move the stretch to the front of the throat."
+  },
+  {
+    "name": "The Samurai Kneel (One Leg)",
+    "tool": "Bodyweight",
+    "desc": "One knee down, one foot forward. Sit back onto the back heel. Intense quad stretch."
+  },
+  {
+    "name": "Stealth Elbow Tuck",
+    "tool": "Bodyweight",
+    "desc": "Try to touch your elbows together behind your back while keeping arms straight."
+  },
+  {
+    "name": "Ninja Finger Tap",
+    "tool": "Bodyweight",
+    "desc": "Tap each finger to your thumb as fast as possible. Coordination and speed."
+  },
+  {
+    "name": "Stealth Mid-Back Twist",
+    "tool": "Chair",
+    "desc": "Rotate only your upper back while keeping your belly button facing forward."
+  },
+  {
+    "name": "The Final Ninja Bow",
+    "tool": "Bodyweight",
+    "desc": "Wide stance. Fold forward and touch your head to the floor. The ultimate goal."
+  }
+]

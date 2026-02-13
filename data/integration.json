@@ -1,0 +1,502 @@
+[
+    {
+        "name": "The Desk-Edge Pec Opener",
+        "tool": "Desk",
+        "desc": "Place forearm on the edge of your desk. Rotate your body away. Keep your shoulder down and back."
+    },
+    {
+        "name": "Seated 'Figure-4' Glute Stretch",
+        "tool": "Chair",
+        "desc": "Sit at the edge of your chair. Cross ankle over knee. Lean forward with a flat back. Do this every hour."
+    },
+    {
+        "name": "The Stealth Hip Lift",
+        "tool": "Chair",
+        "desc": "While sitting, lift one buttock off the chair using only your side-waist muscles. Alternate side to side."
+    },
+    {
+        "name": "Towel Overhead Reach",
+        "tool": "Towel",
+        "desc": "Hold a towel tight between hands. Reach overhead and pull the towel apart. Opens the chest and lats."
+    },
+    {
+        "name": "The 'Meeting' Neck Glide",
+        "tool": "Bodyweight",
+        "desc": "Move your head forward and backward (like a pigeon) without tilting up or down. Greases the neck discs."
+    },
+    {
+        "name": "Under-Table Ankle 8s",
+        "tool": "Bodyweight",
+        "desc": "Draw a figure-8 with your toes under the desk. Prevents ankle stiffness during long calls."
+    },
+    {
+        "name": "The Chair-Assisted Thoracic Twist",
+        "tool": "Chair",
+        "desc": "Sit sideways on a chair. Use the backrest to pull yourself into a deeper spinal rotation."
+    },
+    {
+        "name": "Finger Splay Isometrics",
+        "tool": "Desk",
+        "desc": "Press all fingers flat against the desk. Try to lift only your ring finger. It's harder than it looks."
+    },
+    {
+        "name": "The 'Invisible' Standing Calf Raise",
+        "tool": "Bodyweight",
+        "desc": "Stand in line. Lift heels 1 inch. Hold for 30s. Nobody will notice your calves are on fire."
+    },
+    {
+        "name": "Towel Behind-Back Pass",
+        "tool": "Towel",
+        "desc": "Hold towel with one hand over shoulder, one hand behind back. Try to 'walk' hands closer together."
+    },
+    {
+        "name": "Seated Leg Extension (Hidden)",
+        "tool": "Chair",
+        "desc": "Straighten your leg under the desk. Flex your quad hard for 10s. Keep the knee joint healthy."
+    },
+    {
+        "name": "The 'Phone Neck' Counter",
+        "tool": "Bodyweight",
+        "desc": "Interlace fingers behind head. Push head back into hands while hands resist. Reset your posture."
+    },
+    {
+        "name": "Wall-Supported Hip Airplane",
+        "tool": "Wall",
+        "desc": "Hand on wall for balance. Hinge on one leg. Rotate your hips open and closed. Critical for hip health."
+    },
+    {
+        "name": "The 'Secret' Glute Squeeze",
+        "tool": "Bodyweight",
+        "desc": "Squeeze glutes as hard as possible while standing. Hold 10s. Prevents 'gluteal amnesia' from sitting."
+    },
+    {
+        "name": "Wrist Extension (Desk Press)",
+        "tool": "Desk",
+        "desc": "Press palms into the underside of the desk as if trying to lift it. Stretches the top of the wrist."
+    },
+    {
+        "name": "The 'Pencil' Foot Grab",
+        "tool": "Bodyweight",
+        "desc": "Try to pick up a pencil or towel with your toes. Builds the intrinsic muscles of the arch."
+    },
+    {
+        "name": "Seated Pelvic Tilt (Stealth)",
+        "tool": "Chair",
+        "desc": "Small, controlled tilts of the pelvis while sitting. Keeps the lower back from locking up."
+    },
+    {
+        "name": "The Doorway 'Y' Stretch",
+        "tool": "Doorway",
+        "desc": "Place hands high on a doorway. Lean through. Reverses the 'keyboard hunch' instantly."
+    },
+    {
+        "name": "Towel Lat Pull-down",
+        "tool": "Towel",
+        "desc": "Hold towel overhead. Pull it down to your chest while pulling hands outward. Squeeze the shoulder blades."
+    },
+    {
+        "name": "Standing Single-Leg Balance (Eyes Closed)",
+        "tool": "Bodyweight",
+        "desc": "The ultimate test. Stand on one leg and close your eyes. Try for 30 seconds."
+    },
+    {
+        "name": "The 'Thinker' Neck Stretch",
+        "tool": "Bodyweight",
+        "desc": "Rest chin on hand. Gently push head back and to the side. Targets the deep sub-occipitals."
+    },
+    {
+        "name": "Seated Windshield Wipers",
+        "tool": "Chair",
+        "desc": "Sit at the edge. Keep feet wide. Drop knees inward one at a time. Hip internal rotation."
+    },
+    {
+        "name": "The 'Caffeine' Shoulder Roll",
+        "tool": "Bodyweight",
+        "desc": "Huge, slow shoulder circles. Imagine you are massaging your own traps with your shoulder blades."
+    },
+    {
+        "name": "Towel Hamstring Floss",
+        "tool": "Towel",
+        "desc": "Lie on back. Loop towel over foot. Straighten and bend the knee. Flosses the nerve and muscle."
+    },
+    {
+        "name": "Wall Slide (W to V)",
+        "tool": "Wall",
+        "desc": "Back against wall. Move arms from a 'W' shape to a 'V' shape. Keep elbows and wrists touching wall."
+    },
+    {
+        "name": "The 'Coffee' Wrist Circle",
+        "tool": "Bodyweight",
+        "desc": "Hold an imaginary mug. Rotate the wrist in a full circle without spilling the 'coffee'."
+    },
+    {
+        "name": "Seated Hip Flexor Lift",
+        "tool": "Chair",
+        "desc": "While sitting, lift your knee toward your chest without leaning back. Hold 5s. Switch."
+    },
+    {
+        "name": "The 'Stair' Calf Stretch",
+        "tool": "Stair",
+        "desc": "Heels hanging off a step. Let gravity pull them down. The most effective calf stretch on earth."
+    },
+    {
+        "name": "Towel Archer Reach",
+        "tool": "Towel",
+        "desc": "Hold towel. Reach one arm up, one down. Switch with speed. Dynamic shoulder coordination."
+    },
+    {
+        "name": "The 'Zoom' Ribcage Shift",
+        "tool": "Bodyweight",
+        "desc": "Slide your ribs left and right while keeping your head and hips still. Great for spinal fluidity."
+    },
+    {
+        "name": "Wall-Supported Prying Squat",
+        "tool": "Wall",
+        "desc": "Deep squat with back against wall. Use elbows to push knees out. Hold for 60 seconds."
+    },
+    {
+        "name": "The 'Hidden' Toe Splay",
+        "tool": "Bodyweight",
+        "desc": "Inside your shoes, spread your toes as wide as possible. Hold 5s. Do it 10 times."
+    },
+    {
+        "name": "Seated Thoracic Extension",
+        "tool": "Chair",
+        "desc": "Interlace fingers behind neck. Use the top of the chair back as a fulcrum to lean back and open."
+    },
+    {
+        "name": "The 'Keyboard' Wrist Shake",
+        "tool": "Bodyweight",
+        "desc": "Every 30 mins: shake hands vigorously for 20s. Resets the nervous system and blood flow."
+    },
+    {
+        "name": "Towel Steering Wheel",
+        "tool": "Towel",
+        "desc": "Hold towel taut in front of you. Rotate it like a steering wheel. Coordination for the shoulders."
+    },
+    {
+        "name": "The 'Subway' Balance",
+        "tool": "Bodyweight",
+        "desc": "Stand on one leg while the bus/train is moving. Use your core to stabilize. (Don't fall!)"
+    },
+    {
+        "name": "Seated Cat-Cow (Small)",
+        "tool": "Chair",
+        "desc": "Round and arch your spine while sitting. Focus on the very lower segments of the back."
+    },
+    {
+        "name": "The 'Waiters' Bow",
+        "tool": "Bodyweight",
+        "desc": "Stand. Hinge at hips with a flat back. Keep knees slightly bent. Feel the hamstrings."
+    },
+    {
+        "name": "Wall Pec Stretch (Arm Straight)",
+        "tool": "Wall",
+        "desc": "Hand flat on wall, arm straight. Rotate your body away. Stretch from the chest through the bicep."
+    },
+    {
+        "name": "Towel Shin Stretch",
+        "tool": "Towel",
+        "desc": "Sit on floor. Loop towel over the TOP of your toes. Pull back to stretch the front of the shin."
+    },
+    {
+        "name": "The 'Ear-to-Shoulder' Ripple",
+        "tool": "Bodyweight",
+        "desc": "Tilt head to shoulder. Now imagine the stretch rippling all the way down to your fingertips."
+    },
+    {
+        "name": "Seated Glute Medius Squeeze",
+        "tool": "Chair",
+        "desc": "Place your hands on the outside of your knees. Push knees out while hands resist. 10s hold."
+    },
+    {
+        "name": "The 'L-Sit' Chair Press",
+        "tool": "Chair",
+        "desc": "Hands on armrests. Push yourself up so your butt clears the seat. Keep knees bent to start."
+    },
+    {
+        "name": "Wall-Facing Squat",
+        "tool": "Wall",
+        "desc": "Stand 2 inches from a wall. Squat deep without your face or knees touching the wall. Mobility test!"
+    },
+    {
+        "name": "Towel Tricep Reach",
+        "tool": "Towel",
+        "desc": "One hand over, one under. Use the top hand to pull the bottom arm up into a shoulder stretch."
+    },
+    {
+        "name": "The 'Stiff' Neck Look-Away",
+        "tool": "Bodyweight",
+        "desc": "Look as far left as possible. Now use your eyes to look even further. Your neck will follow."
+    },
+    {
+        "name": "Seated Adductor Squeeze",
+        "tool": "Chair",
+        "desc": "Place a fist between your knees. Squeeze your knees together as hard as possible. 10s hold."
+    },
+    {
+        "name": "The 'Hanging' Forward Fold",
+        "tool": "Bodyweight",
+        "desc": "Stand. Fold forward. Let your head be a heavy weight that pulls your spine longer."
+    },
+    {
+        "name": "Wall-Supported Quad Stretch",
+        "tool": "Wall",
+        "desc": "Stand facing away from wall. Place top of foot on wall. Sink into a lunge. Intense hip opener."
+    },
+    {
+        "name": "Towel Chest Pull",
+        "tool": "Towel",
+        "desc": "Hold towel behind your back. Pull it away from your body and upward. Squeeze the blades."
+    },
+    {
+        "name": "The 'Clock' Head Rotation",
+        "tool": "Bodyweight",
+        "desc": "Imagine your nose is the hand of a clock. Touch every hour mark with a slow, smooth circle."
+    },
+    {
+        "name": "Seated Ankle Eversion",
+        "tool": "Bodyweight",
+        "desc": "While sitting, lift your foot and try to turn the sole outward. Strengthens the peroneal muscles."
+    },
+    {
+        "name": "The 'Tabletop' Wrist Stretch",
+        "tool": "Desk",
+        "desc": "Place backs of hands on the desk, fingers pointing toward you. Lean back gently. Wrist relief."
+    },
+    {
+        "name": "Wall 'Snow Angels'",
+        "tool": "Wall",
+        "desc": "Back against wall. Move arms up and down in a full arc. Keep shoulders and elbows touching wall."
+    },
+    {
+        "name": "Towel Foot Scrunches",
+        "tool": "Towel",
+        "desc": "Place towel on floor. Use your toes to scrunch it up toward you. Build that arch!"
+    },
+    {
+        "name": "The 'Nod' of Health",
+        "tool": "Bodyweight",
+        "desc": "Very small, very fast 'Yes' and 'No' nods. Loosens the top-most vertebra (C1-C2)."
+    },
+    {
+        "name": "Seated Spine Extension (Active)",
+        "tool": "Chair",
+        "desc": "Sit tall. Reach for the sky. Imagine you are being pulled up by a string from your crown."
+    },
+    {
+        "name": "The 'Hidden' Calf Stretch",
+        "tool": "Bodyweight",
+        "desc": "While standing, step one foot back. Press the heel down. Do this while talking to someone."
+    },
+    {
+        "name": "Wall-Supported Side Bend",
+        "tool": "Wall",
+        "desc": "Stand sideways to wall. Reach arm over and touch the wall. Stretch the entire lateral chain."
+    },
+    {
+        "name": "Towel Resistance Neck Extension",
+        "tool": "Towel",
+        "desc": "Loop towel behind head. Pull towel forward while pushing head back. Build neck strength."
+    },
+    {
+        "name": "The 'Pelvic Clock'",
+        "tool": "Chair",
+        "desc": "Seated. Imagine your pelvis is on a clock face. Tilt to 12, 6, 3, and 9. Spinal lubrication."
+    },
+    {
+        "name": "Seated 'Big Toe' Yoga",
+        "tool": "Bodyweight",
+        "desc": "Lift only the big toe while sitting. Then only the small toes. Brain-foot connection."
+    },
+    {
+        "name": "The 'Doorframe' Lat Stretch",
+        "tool": "Doorway",
+        "desc": "Grab the side of a doorway and lean your hips away. Breathe into the side of your ribs."
+    },
+    {
+        "name": "Wall-Facing Scapular Slides",
+        "tool": "Wall",
+        "desc": "Forearms on wall in a V. Slide them up while keeping your shoulder blades pulled down."
+    },
+    {
+        "name": "Towel Bicep Isometrics",
+        "tool": "Towel",
+        "desc": "Step on a towel. Hold the ends and pull up as hard as possible. 10s maximum effort."
+    },
+    {
+        "name": "The 'Stealth' Scapular Squeeze",
+        "tool": "Bodyweight",
+        "desc": "Try to touch your elbows behind your back while typing. Opens the chest instantly."
+    },
+    {
+        "name": "Seated Leg Swings (Small)",
+        "tool": "Chair",
+        "desc": "Lift one leg. Swing the lower leg back and forth. Lubricates the knee joint."
+    },
+    {
+        "name": "The 'Stair' Toe Raise",
+        "tool": "Stair",
+        "desc": "Balls of feet on step. Pull toes up toward shins. Strengthens the tibialis muscle."
+    },
+    {
+        "name": "Wall-Supported Warrior III",
+        "tool": "Wall",
+        "desc": "Hands on wall. Hinge until torso is parallel. Lift one leg. Great for spine alignment."
+    },
+    {
+        "name": "Towel Glute Bridge",
+        "tool": "Towel",
+        "desc": "Lie on back. Squeeze a rolled-up towel between your knees while performing a bridge."
+    },
+    {
+        "name": "The 'Jaw' Slide",
+        "tool": "Bodyweight",
+        "desc": "Gently move your lower jaw side to side. Releases tension from stress and grinding."
+    },
+    {
+        "name": "Seated Internal Hip Rotation",
+        "tool": "Chair",
+        "desc": "Sit with feet wide. Drop one knee toward the center. Hold 5s. Switch. Hip maintenance."
+    },
+    {
+        "name": "The 'Wall' Chest Smash",
+        "tool": "Wall",
+        "desc": "Lean your chest into a wall corner. Use the corner to massage the pec-shoulder junction."
+    },
+    {
+        "name": "Towel 'Figure-8' Coordination",
+        "tool": "Towel",
+        "desc": "Move a towel in a figure-8 pattern using both hands. Increases shoulder fluidity."
+    },
+    {
+        "name": "The 'Infinite' Neck Ripple",
+        "tool": "Bodyweight",
+        "desc": "Imagine a wave starting at your nose and traveling down to your tailbone. Liquid movement."
+    },
+    {
+        "name": "Seated Quadricep Isometric",
+        "tool": "Chair",
+        "desc": "Straighten leg, lock knee. Squeeze quad as hard as you can for 10s. Knee protection."
+    },
+    {
+        "name": "The 'Desk' Tricep Stretch",
+        "tool": "Desk",
+        "desc": "Place elbows on desk, hands on back of neck. Sink your head between your arms."
+    },
+    {
+        "name": "Wall-Supported Cossack Squat",
+        "tool": "Wall",
+        "desc": "Use the wall for balance. Perform a deep side lunge. The wall lets you stay upright."
+    },
+    {
+        "name": "Towel Overhead Lunge",
+        "tool": "Towel",
+        "desc": "Hold towel tight overhead. Perform a lunge. Forces the core to stabilize the spine."
+    },
+    {
+        "name": "The 'Stealth' Belly Breath",
+        "tool": "Bodyweight",
+        "desc": "Breathe so only your stomach expands. Calm the nervous system during a stressful day."
+    },
+    {
+        "name": "Seated 'Windmill' Reach",
+        "tool": "Chair",
+        "desc": "Sit wide. Reach one hand to opposite foot, other to sky. Rotate the middle back."
+    },
+    {
+        "name": "The 'Wall' Calf Smash",
+        "tool": "Wall",
+        "desc": "Place your heel against the wall and your toes high up the wall. Lean in. Deep stretch."
+    },
+    {
+        "name": "Towel Behind-Back Extension",
+        "tool": "Towel",
+        "desc": "Hold towel behind back. Lift it as high as possible without leaning forward."
+    },
+    {
+        "name": "The 'Alphabet' Wrist Riddle",
+        "tool": "Bodyweight",
+        "desc": "Write the alphabet with your closed fist. Moves the wrist through every angle."
+    },
+    {
+        "name": "Seated 'Hollow Body' Hold",
+        "tool": "Chair",
+        "desc": "At the edge of chair, lean back slightly, lift feet. Hold the 'V' shape for 20s."
+    },
+    {
+        "name": "The 'Desk' Cat-Cow",
+        "tool": "Desk",
+        "desc": "Hands on desk. Round your back and push away, then arch and pull your chest forward."
+    },
+    {
+        "name": "Wall-Supported Scorpion",
+        "tool": "Wall",
+        "desc": "Stand facing wall. Kick one leg back and rotate it across. Opens the hip and spine."
+    },
+    {
+        "name": "Towel Shoulder Dislocates",
+        "tool": "Towel",
+        "desc": "Hold towel wide. Move it from your hips, over your head, to your lower back. Slow."
+    },
+    {
+        "name": "The 'Stealth' Neck Rotation",
+        "tool": "Bodyweight",
+        "desc": "Slowly look as far left as possible. Hold 5s. Now look right. Keep chin level."
+    },
+    {
+        "name": "Seated Hamstring Reach",
+        "tool": "Chair",
+        "desc": "One leg straight out. Reach for your toes. Keep your back as flat as possible."
+    },
+    {
+        "name": "The 'Wall' Lat Reach",
+        "tool": "Wall",
+        "desc": "Stand sideways. Reach arm high and press palm into wall. Lean away. Side-body relief."
+    },
+    {
+        "name": "Towel Pelvic Squeeze",
+        "tool": "Towel",
+        "desc": "Sit. Place towel between knees. Squeeze and lift your pelvic floor. Stability foundation."
+    },
+    {
+        "name": "The 'Stealth' Shoulder Shrug",
+        "tool": "Bodyweight",
+        "desc": "Pull shoulders to ears, then pull them down to your 'back pockets'. Reset posture."
+    },
+    {
+        "name": "Seated Ribcage Circles",
+        "tool": "Chair",
+        "desc": "Try to move only your ribs in a circle while sitting. Keeps the mid-spine mobile."
+    },
+    {
+        "name": "The 'Wall' Ankle Rock",
+        "tool": "Wall",
+        "desc": "Toes against wall. Drive knee toward the wall. Increases ankle range for better walking."
+    },
+    {
+        "name": "Towel Isometric Row",
+        "tool": "Towel",
+        "desc": "Loop towel around a post (or your feet). Pull as hard as possible for 10s."
+    },
+    {
+        "name": "The 'Stealth' Jaw Release",
+        "tool": "Bodyweight",
+        "desc": "Open your mouth slightly and move your jaw in a slow circle. Releases stress tension."
+    },
+    {
+        "name": "Seated Hip External Rotation",
+        "tool": "Chair",
+        "desc": "Cross ankle over knee. Gently push the knee toward the floor. Opens the hip socket."
+    },
+    {
+        "name": "The 'Wall' Spine Roll",
+        "tool": "Wall",
+        "desc": "Back against wall. Peel your spine off the wall one vertebra at a time until you hang."
+    },
+    {
+        "name": "The 'Final Integration' Shake",
+        "tool": "Bodyweight",
+        "desc": "Stand up. Shake your whole body for 30 seconds. Feel the blood move everywhere."
+    }
+]

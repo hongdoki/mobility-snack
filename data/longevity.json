@@ -1,0 +1,502 @@
+[
+    {
+        "name": "The Founder",
+        "tool": "Bodyweight",
+        "desc": "Hinge hips back, reach arms forward and up in a V. Makes your lower back feel like steel."
+    },
+    {
+        "name": "ATG Split Squat",
+        "tool": "Bodyweight",
+        "desc": "Lunge forward until your hamstring covers your calf. Keeps knees young and hips open."
+    },
+    {
+        "name": "Poliquin Step-Up",
+        "tool": "Step",
+        "desc": "Stand on a step. Lower your heel to the floor by only bending your knee. Saves the patella."
+    },
+    {
+        "name": "Tibialis Raise",
+        "tool": "Wall",
+        "desc": "Back against wall, feet out. Lift your toes toward your shins. The ultimate shin-splint killer."
+    },
+    {
+        "name": "Seated Good Morning",
+        "tool": "Chair",
+        "desc": "Sit wide. Hinge forward with a flat back until your chest is between your knees. Groin and back health."
+    },
+    {
+        "name": "Nordic Curl (Regressed)",
+        "tool": "Bodyweight",
+        "desc": "Kneel, feet anchored. Lower yourself as slowly as possible. Bulletproofs the hamstrings."
+    },
+    {
+        "name": "Cat-Cow (Tailbone Only)",
+        "tool": "Bodyweight",
+        "desc": "Move ONLY your tailbone while keeping the rest of your spine still. Advanced motor control."
+    },
+    {
+        "name": "Bruegger’s Relief Position",
+        "tool": "Bodyweight",
+        "desc": "Sit at edge of chair. Open arms wide, palms up, tuck chin. The 30-second desk-job antidote."
+    },
+    {
+        "name": "Dead Hang (One Arm)",
+        "tool": "Pull-up Bar",
+        "desc": "Hang from the bar with one hand. Switches on the deep stabilizers of the shoulder."
+    },
+    {
+        "name": "Shoulder CARs (Wall-Facing)",
+        "tool": "Wall",
+        "desc": "Face the wall. Move your arm in a giant circle without touching the wall. Brutal honesty for shoulders."
+    },
+    {
+        "name": "The World’s Greatest Stretch (3 min hold)",
+        "tool": "Bodyweight",
+        "desc": "Lunge, elbow to instep. Stay there. Breathe. Let the hip capsule actually change shape."
+    },
+    {
+        "name": "Cossack Squat (Weighted)",
+        "tool": "Dumbbell",
+        "desc": "Hold a weight at chest. Sink deep into a side lunge. Keeps the adductors from snapping."
+    },
+    {
+        "name": "Reverse Plank (Heels Only)",
+        "tool": "Bodyweight",
+        "desc": "On floor. Push up onto your heels and hands. Strengthens the entire posterior chain."
+    },
+    {
+        "name": "Wall Sit (Heels Elevated)",
+        "tool": "Wall",
+        "desc": "Wall sit but stay on your toes. Builds 'spring' in the ankles and strengthens the VMO muscle."
+    },
+    {
+        "name": "Passive Spine Extension",
+        "tool": "Foam Roller",
+        "desc": "Roller under mid-back. Let your head touch the floor. Stay for 2 minutes to reverse the 'slump'."
+    },
+    {
+        "name": "Deep Squat Internal Rotation",
+        "tool": "Bodyweight",
+        "desc": "In a deep squat, drop one knee inward to the floor. Total hip socket maintenance."
+    },
+    {
+        "name": "The 'Prying' Squat",
+        "tool": "Kettlebell",
+        "desc": "Hold a KB. In a squat, move side to side, prying the hips open with your elbows."
+    },
+    {
+        "name": "Copenhagen Plank (Short)",
+        "tool": "Chair",
+        "desc": "Side plank with top knee on a chair. Strengthens the inner thigh/groin connection."
+    },
+    {
+        "name": "Segmental Bridge",
+        "tool": "Bodyweight",
+        "desc": "Roll your spine up off the floor one inch at a time. Roll down the same way."
+    },
+    {
+        "name": "The 'Old Man' Balance",
+        "tool": "Bodyweight",
+        "desc": "Put your socks and shoes on while standing on one leg. Don't touch the wall."
+    },
+    {
+        "name": "Quadruped Hip Extension",
+        "tool": "Bodyweight",
+        "desc": "On all fours. Kick heel to sky without arching your back. Glute isolation for spinal health."
+    },
+    {
+        "name": "Scapular Pull-up (Slow)",
+        "tool": "Pull-up Bar",
+        "desc": "Hang. Pull shoulder blades down and together. Hold 3s. Release. Saves the rotator cuff."
+    },
+    {
+        "name": "Wall Slide (With Lift-off)",
+        "tool": "Wall",
+        "desc": "Arms in W on wall. Slide up. At the top, try to lift your hands off the wall. Hard."
+    },
+    {
+        "name": "Active Pigeon",
+        "tool": "Bodyweight",
+        "desc": "In pigeon stretch, try to lift your hands and pull your chest up using only your hips."
+    },
+    {
+        "name": "Thoracic Bridge (Slow Flow)",
+        "tool": "Bodyweight",
+        "desc": "From crab to beast. Reach one arm over and rotate. The ultimate 3D spine mover."
+    },
+    {
+        "name": "Z-Sit Lift",
+        "tool": "Bodyweight",
+        "desc": "In 90/90 sit, lift your back foot off the floor without leaning. Glute medius fire."
+    },
+    {
+        "name": "Standing Hip Flexor Isometrics",
+        "tool": "Wall",
+        "desc": "Lift knee above hip height. Push down with your hand while resisting with the leg. Strong hips!"
+    },
+    {
+        "name": "The 'Waiters' Walk",
+        "tool": "Kettlebell",
+        "desc": "Hold a weight straight overhead. Walk for 60 seconds. Teaches the shoulder to stabilize."
+    },
+    {
+        "name": "Face Pull (With External Rotation)",
+        "tool": "Band",
+        "desc": "Pull band to face. At the end, rotate hands so they are higher than elbows."
+    },
+    {
+        "name": "Spanish Squat",
+        "tool": "Band",
+        "desc": "Band behind knees, anchored. Sit back into a squat. The safest way to load painful knees."
+    },
+    {
+        "name": "T-Spine Opener (Side Lying)",
+        "tool": "Bodyweight",
+        "desc": "Lie on side, knees tucked. Open your top arm like a book until it touches the floor behind you."
+    },
+    {
+        "name": "Ankle Dorsiflexion (Self-Mobilization)",
+        "tool": "Band",
+        "desc": "Band pulls ankle joint back. Drive knee forward. Gaining inches on your squat depth."
+    },
+    {
+        "name": "Wrist Extension (Wall)",
+        "tool": "Wall",
+        "desc": "Hands flat on wall, fingers up. Slowly slide hands down while keeping palms flat."
+    },
+    {
+        "name": "Wrist Flexion (Wall)",
+        "tool": "Wall",
+        "desc": "Backs of hands on wall, fingers down. Slowly slide hands up. Fixes 'typing wrists'."
+    },
+    {
+        "name": "Nerve Glide (Median)",
+        "tool": "Bodyweight",
+        "desc": "Arm out, palm away. Tilt head away, then toward. Flosses the nerves in the arm."
+    },
+    {
+        "name": "Nerve Glide (Ulnar)",
+        "tool": "Bodyweight",
+        "desc": "Make 'glasses' with fingers over your eyes, elbows out. Feel the stretch in the pinky side."
+    },
+    {
+        "name": "Nerve Glide (Radial)",
+        "tool": "Bodyweight",
+        "desc": "Arm at side, palm back. Flex wrist, rotate arm inward, tilt head away."
+    },
+    {
+        "name": "Scalene Stretch",
+        "tool": "Bodyweight",
+        "desc": "Sit on your hand. Tilt head away and slightly back. Breathe into the side of the neck."
+    },
+    {
+        "name": "Jaw Prying",
+        "tool": "Bodyweight",
+        "desc": "Place tongue on roof of mouth. Open jaw wide. Relieves TMJ tension from stress."
+    },
+    {
+        "name": "Eye Circles",
+        "tool": "Bodyweight",
+        "desc": "Look as far up, right, down, and left as possible. Your neck mobility is tied to your eyes!"
+    },
+    {
+        "name": "Scm Stretch",
+        "tool": "Bodyweight",
+        "desc": "Rotate head to the side, tilt back. Pull down on your collarbone with your hand."
+    },
+    {
+        "name": "Upper Trap (Active)",
+        "tool": "Bodyweight",
+        "desc": "Ear to shoulder. Reach opposite hand toward the floor and spread fingers wide."
+    },
+    {
+        "name": "First Rib Mobilization",
+        "tool": "Towel",
+        "desc": "Towel over shoulder. Pull down while tilting head away. Clears the 'thoracic outlet'."
+    },
+    {
+        "name": "Eagle Arms",
+        "tool": "Bodyweight",
+        "desc": "Wrap arms around each other, palms together. Lift elbows. Stretches between the blades."
+    },
+    {
+        "name": "Cow Face Arms",
+        "tool": "Bodyweight",
+        "desc": "One hand over, one under. Try to interlock fingers. The ultimate shoulder test."
+    },
+    {
+        "name": "Child’s Pose (Lat Variation)",
+        "tool": "Bodyweight",
+        "desc": "In child’s pose, walk your hands to the left. Breathe into the right side."
+    },
+    {
+        "name": "Thread the Needle (Active)",
+        "tool": "Bodyweight",
+        "desc": "On all fours. Reach one arm through, touch shoulder, then reach that same arm to sky."
+    },
+    {
+        "name": "Kneeling Thoracic Extension",
+        "tool": "Chair",
+        "desc": "Elbows on chair, hands on neck. Sink chest to floor. Reverses the 'phone hunch'."
+    },
+    {
+        "name": "Seated Spinal Twist",
+        "tool": "Chair",
+        "desc": "Sit, cross one leg. Hook opposite elbow. Use the chair back to pry yourself around."
+    },
+    {
+        "name": "Windshield Wipers (Lying)",
+        "tool": "Bodyweight",
+        "desc": "On back, knees bent. Drop knees side to side slowly. Low back lubrication."
+    },
+    {
+        "name": "Happy Baby (Rocking)",
+        "tool": "Bodyweight",
+        "desc": "On back, grab feet. Rock side to side. Decompresses the sacrum."
+    },
+    {
+        "name": "Deep Squat (10 min total/day)",
+        "tool": "Bodyweight",
+        "desc": "Accumulate 10 minutes throughout the day in a deep squat. Humans were meant to do this."
+    },
+    {
+        "name": "Single Leg Standing (Eyes Closed)",
+        "tool": "Bodyweight",
+        "desc": "Stand on one leg. Close your eyes. Hold for 30s. Rewires your balance system."
+    },
+    {
+        "name": "Toe Walking",
+        "tool": "Bodyweight",
+        "desc": "Walk on your tiptoes for 60 seconds. Strengthens the calves and arches."
+    },
+    {
+        "name": "Heel Walking",
+        "tool": "Bodyweight",
+        "desc": "Walk on your heels with toes pulled up. Massive shins and ankle stability."
+    },
+    {
+        "name": "Lateral Foot Walking",
+        "tool": "Bodyweight",
+        "desc": "Walk on the outer edges of your feet. Carefully build ankle roll resistance."
+    },
+    {
+        "name": "Medial Foot Walking",
+        "tool": "Bodyweight",
+        "desc": "Walk on the inner edges of your feet. Strengthens the medial arch."
+    },
+    {
+        "name": "The 'Pretzel' Stretch",
+        "tool": "Bodyweight",
+        "desc": "Lie on side. Top leg forward (90 deg), bottom leg back. Grab bottom foot. Rotate."
+    },
+    {
+        "name": "Hip Airplane (Supported)",
+        "tool": "Wall",
+        "desc": "Hand on wall. Stand on one leg. Tilt your torso and hips open and closed."
+    },
+    {
+        "name": "Curtsy Lunge (Slow)",
+        "tool": "Bodyweight",
+        "desc": "Slowly step behind and across. Focus on the stretch in the outer hip."
+    },
+    {
+        "name": "Butcher’s Block",
+        "tool": "Wall",
+        "desc": "Elbows on wall, hands on shoulder blades. Lean in. Best lat/tricep combo stretch."
+    },
+    {
+        "name": "Doorway Pec Stretch (High)",
+        "tool": "Door Frame",
+        "desc": "Hands at 135 degrees (Y-shape) on frame. Step through. Hits the lower pec fibers."
+    },
+    {
+        "name": "Doorway Pec Stretch (Low)",
+        "tool": "Door Frame",
+        "desc": "Hands at 45 degrees on frame. Step through. Hits the upper pec and bicep."
+    },
+    {
+        "name": "Prone T-Lift",
+        "tool": "Bodyweight",
+        "desc": "On stomach, arms in T. Lift thumbs to sky, squeezing shoulder blades. Back health."
+    },
+    {
+        "name": "Prone Y-Lift",
+        "tool": "Bodyweight",
+        "desc": "On stomach, arms in Y. Lift thumbs. Essential for overhead shoulder health."
+    },
+    {
+        "name": "Prone W-Lift",
+        "tool": "Bodyweight",
+        "desc": "On stomach, arms in W. Squeeze elbows to ribs and lift. Posture king."
+    },
+    {
+        "name": "Scorpion Stretch (Lying)",
+        "tool": "Bodyweight",
+        "desc": "On stomach, arms in T. Reach one foot across to touch the opposite hand."
+    },
+    {
+        "name": "The 'World’s Greatest' (Spinal variation)",
+        "tool": "Bodyweight",
+        "desc": "In lunge, reach the inside arm around your front leg and grab your heel."
+    },
+    {
+        "name": "Kneeling Quad Stretch (Wall)",
+        "tool": "Wall",
+        "desc": "Back knee against wall, shin up the wall. Step other foot forward. Very intense."
+    },
+    {
+        "name": "Shin Box Switch (No Hands)",
+        "tool": "Bodyweight",
+        "desc": "Rotate knees from side to side without using your hands for support."
+    },
+    {
+        "name": "Seated Pancake (Active)",
+        "tool": "Bodyweight",
+        "desc": "Sit wide. Reach forward. Try to 'pull' yourself lower using your hip flexors."
+    },
+    {
+        "name": "Frog Stretch (Rocking)",
+        "tool": "Bodyweight",
+        "desc": "Knees wide. Rock hips back to heels. Exhale as you go back. Open those adductors."
+    },
+    {
+        "name": "Butterfly (Weighted knees)",
+        "tool": "Bodyweight",
+        "desc": "Butterfly stretch. Use your own arm strength to push knees down. Hold 30s."
+    },
+    {
+        "name": "Lying Glute Stretch",
+        "tool": "Bodyweight",
+        "desc": "On back, pull one knee to the opposite shoulder. Feel it in the deep glute."
+    },
+    {
+        "name": "Iliacus Release",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball just inside the hip bone. Lie on it. Don't move. Just breathe for 2 mins."
+    },
+    {
+        "name": "Psoas Smash",
+        "tool": "Medicine Ball",
+        "desc": "Large ball into the gut (carefully). Breathe and let the ball sink into the psoas."
+    },
+    {
+        "name": "Diaphragm Release",
+        "tool": "Bodyweight",
+        "desc": "Gently hook your fingers under your ribcage. Breathe and lean forward."
+    },
+    {
+        "name": "Lower Trap Floor Slide",
+        "tool": "Bodyweight",
+        "desc": "On back. Arms at 90. Slide up until they touch, keeping elbows on floor."
+    },
+    {
+        "name": "Prone Swimmers",
+        "tool": "Bodyweight",
+        "desc": "On stomach. Hands behind head, then reach around to small of back. Don't touch floor."
+    },
+    {
+        "name": "Tabletop Hold",
+        "tool": "Bodyweight",
+        "desc": "On hands and feet, chest to sky. Lift hips until body is a flat table."
+    },
+    {
+        "name": "Plank to Downward Dog",
+        "tool": "Bodyweight",
+        "desc": "Flow between these two. Focus on the transition through the shoulders."
+    },
+    {
+        "name": "Side Plank (Hip Dips)",
+        "tool": "Bodyweight",
+        "desc": "In side plank, touch hip to floor and drive back up. Oblique mobility."
+    },
+    {
+        "name": "Bird-Dog (Square)",
+        "tool": "Bodyweight",
+        "desc": "Reach opposite arm/leg. Then move them out 45 degrees. Then back. Stability."
+    },
+    {
+        "name": "Dead Bug (Antagonist)",
+        "tool": "Bodyweight",
+        "desc": "On back. Lower same-side arm and leg. Harder for the brain and core."
+    },
+    {
+        "name": "Bear Crawl (Sideways)",
+        "tool": "Bodyweight",
+        "desc": "Move like a bear but laterally. Great for shoulder girdle stability."
+    },
+    {
+        "name": "Crab Walk (Backward)",
+        "tool": "Bodyweight",
+        "desc": "Move in crab position, leading with your head. Opens the chest and shoulders."
+    },
+    {
+        "name": "Gorilla Shuffle",
+        "tool": "Bodyweight",
+        "desc": "Hands on floor, hop feet around them. Great for hip and wrist prep."
+    },
+    {
+        "name": "Duck Walk (Backward)",
+        "tool": "Bodyweight",
+        "desc": "Deep squat walking backward. Massive ankle and quad burner."
+    },
+    {
+        "name": "The 'Noodle' Spine",
+        "tool": "Bodyweight",
+        "desc": "Stand. Move your spine in every possible direction randomly for 60s."
+    },
+    {
+        "name": "Ribcage Circles",
+        "tool": "Bodyweight",
+        "desc": "Stand. Try to move ONLY your ribcage in a circle. Keep hips still."
+    },
+    {
+        "name": "Hip Circles (Big)",
+        "tool": "Bodyweight",
+        "desc": "Feet wide. Move hips in the largest circle possible. Think 1950s hula hoop."
+    },
+    {
+        "name": "Neck Nod (Lying)",
+        "tool": "Bodyweight",
+        "desc": "On back. Lift head 1 inch. Look left, look right. Strengthens deep neck flexors."
+    },
+    {
+        "name": "Tongue Push",
+        "tool": "Bodyweight",
+        "desc": "Press tongue hard into roof of mouth. Strengthens the support structures of the neck."
+    },
+    {
+        "name": "Finger Splay (Active)",
+        "tool": "Bodyweight",
+        "desc": "Spread fingers. Try to move only one finger at a time. Brain-body health."
+    },
+    {
+        "name": "Toe Curls",
+        "tool": "Bodyweight",
+        "desc": "Try to 'walk' across the floor using only your toes. Arch builder."
+    },
+    {
+        "name": "Ankle 8s",
+        "tool": "Bodyweight",
+        "desc": "Draw a figure 8 with your big toe. Hits every corner of the ankle joint."
+    },
+    {
+        "name": "Standing Pelvic Tilt",
+        "tool": "Bodyweight",
+        "desc": "Tuck tailbone, then arch back. Move only the pelvis. Foundation of back health."
+    },
+    {
+        "name": "The 'Hanging' Forward Fold",
+        "tool": "Bodyweight",
+        "desc": "Fold forward, grab elbows. Let gravity stretch your spine for 2 minutes."
+    },
+    {
+        "name": "Seated Neck Tilt",
+        "tool": "Bodyweight",
+        "desc": "Sit on your hand. Tilt head away. Look up. Look down. Move the stretch."
+    },
+    {
+        "name": "Deep Breath (Rib Expansion)",
+        "tool": "Bodyweight",
+        "desc": "Hands on side of ribs. Breathe so your hands are pushed out. Lateral breath."
+    }
+]

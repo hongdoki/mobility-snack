@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Runner’s Knee Tweak",
+        "tool": "Bodyweight",
+        "desc": "Step forward, keep back heel down, and drive front knee over middle toe. Mobilizes the ankle to save the knee."
+    },
+    {
+        "name": "The Cyclist’s Un-Hunch",
+        "tool": "Wall",
+        "desc": "Hands on wall at hip height. Push head through arms. Flattens that rounded cycling spine."
+    },
+    {
+        "name": "Powerlifter Scapula Reset",
+        "tool": "Bodyweight",
+        "desc": "Interlace fingers behind back. Pull shoulders down and back while lifting chin. Reverses bench-press stiffness."
+    },
+    {
+        "name": "Swimmer's Internal Rotation",
+        "tool": "Bodyweight",
+        "desc": "Lie on side, arm at 90 degrees on floor. Gently push wrist toward floor. Essential for overhead health."
+    },
+    {
+        "name": "Golfer's Spine Spiral",
+        "tool": "Bodyweight",
+        "desc": "Lunge position. Rotate torso toward the front leg as far as possible. Hold for 3 deep breaths."
+    },
+    {
+        "name": "The 'Phone Neck' Fix",
+        "tool": "Bodyweight",
+        "desc": "Tuck your chin back (create a double chin). Hold 5s. Relieves the 45-lb pressure on your neck from scrolling."
+    },
+    {
+        "name": "Pitcher’s Windmill",
+        "tool": "Bodyweight",
+        "desc": "Large, slow arm circles. Focus on the very top of the reach where the shoulder usually hitches."
+    },
+    {
+        "name": "Tennis Elbow Glide",
+        "tool": "Bodyweight",
+        "desc": "Extend arm, palm away. Use other hand to gently pull fingers back while rotating the elbow crease up."
+    },
+    {
+        "name": "Soccer Player's Groin Opener",
+        "tool": "Bodyweight",
+        "desc": "Wide stance. Shift weight to one side and rotate the straight leg's toes to the sky."
+    },
+    {
+        "name": "Basketball Ankle Circle",
+        "tool": "Bodyweight",
+        "desc": "Draw the largest circle possible with your big toe. Slow and controlled to build ligament resilience."
+    },
+    {
+        "name": "Hiker's Calf Pump",
+        "tool": "Step",
+        "desc": "Stand on a step edge. Drop heels low and hold for 2s. Explosive raise. Repeat 10 times."
+    },
+    {
+        "name": "Grappler's Finger Splay",
+        "tool": "Bodyweight",
+        "desc": "Make a tight fist, then explode your fingers open as wide as possible. Repeat until forearms burn."
+    },
+    {
+        "name": "Crossfitter's Front Rack Reset",
+        "tool": "Stick",
+        "desc": "Hold stick in front rack. Use a wall to push elbows up high. Increases wrist and lat flexibility."
+    },
+    {
+        "name": "Yoga Hip 'Stiffener' Fix",
+        "tool": "Bodyweight",
+        "desc": "Sit in 90/90. Rotate the back hip forward and squeeze the glute. Corrects 'too much' passive stretching."
+    },
+    {
+        "name": "Skateboarder's Pushing Leg Reset",
+        "tool": "Bodyweight",
+        "desc": "Deep lunge with back knee down. Reach arms to the sky to stretch the hip flexor of your 'pushing' leg."
+    },
+    {
+        "name": "Surfer’s Pop-up Prep",
+        "tool": "Bodyweight",
+        "desc": "Prone position. Push up into cobra, then immediately jump feet into a deep squat."
+    },
+    {
+        "name": "Boxer's Guard Stretch",
+        "tool": "Door Frame",
+        "desc": "Forearm on door frame. Lean through to open the pec. Counteracts the 'hunched guard' posture."
+    },
+    {
+        "name": "Bowler’s Lunging Twist",
+        "tool": "Bodyweight",
+        "desc": "Long lunge. Reach opposite hand to front foot and reach other hand to the sky."
+    },
+    {
+        "name": "Rock Climber's Wrist Extension",
+        "tool": "Floor",
+        "desc": "On all fours. Turn hands so fingers point toward knees. Lean back gently."
+    },
+    {
+        "name": "Deadlifter's Toe Touch",
+        "tool": "Bodyweight",
+        "desc": "Cross one leg over the other. Reach for toes. Hits the outer IT band and deep hamstrings."
+    },
+    {
+        "name": "The Desk-Job Hip Opener",
+        "tool": "Chair",
+        "desc": "While sitting, cross ankle over knee. Lean forward with a flat back. Do this every hour."
+    },
+    {
+        "name": "Sprinter's Psoas Release",
+        "tool": "Bodyweight",
+        "desc": "High lunge. Tilt pelvis back (tuck tailbone). Reach arm of back leg up and over."
+    },
+    {
+        "name": "MMA Neck Isometrics",
+        "tool": "Wall",
+        "desc": "Push the side of your head against a wall. Resist the movement. Build a neck that can handle impact."
+    },
+    {
+        "name": "Rower’s Lumbar Decompression",
+        "tool": "Chair",
+        "desc": "Sit, spread knees, and fold your entire torso between your legs. Let your head hang heavy."
+    },
+    {
+        "name": "Hockey Player’s Adductor Slide",
+        "tool": "Floor",
+        "desc": "On one knee. Slide other leg out to the side on a sock or towel. Feel the inner thigh stretch."
+    },
+    {
+        "name": "Volleyballer’s Shoulder Tap",
+        "tool": "Bodyweight",
+        "desc": "In plank position, tap opposite shoulder without moving your hips. Stability for overhead hits."
+    },
+    {
+        "name": "Dancer’s Arch Lift",
+        "tool": "Bodyweight",
+        "desc": "Stand. Lift your arches without curling your toes. Hold 10s. Foot 'core' strength."
+    },
+    {
+        "name": "Rugby Player’s Shoulder Roll",
+        "tool": "Floor",
+        "desc": "Lie on stomach, one arm out at 90 degrees. Roll your body away from the arm."
+    },
+    {
+        "name": "Skiier’s Lateral Bind",
+        "tool": "Bodyweight",
+        "desc": "Cross legs while standing. Lean toward the side of the back leg. Stretches the lateral chain."
+    },
+    {
+        "name": "Gamer's Thumb Circles",
+        "tool": "Bodyweight",
+        "desc": "Rotate your thumb in wide circles. Then pull it gently away from the palm. Prevent carpal tunnel."
+    },
+    {
+        "name": "Triathlete’s Neck Pivot",
+        "tool": "Bodyweight",
+        "desc": "Lie on back. Rotate chin to shoulder. Reverses the 'aero position' neck cramp."
+    },
+    {
+        "name": "BJJ Guard Recovery Hip Circle",
+        "tool": "Bodyweight",
+        "desc": "On back, legs in air. Move knees in wide, opposing circles. Lubricates the hip sockets."
+    },
+    {
+        "name": "Gymnast’s Hollow Rock",
+        "tool": "Bodyweight",
+        "desc": "Back on floor. Arms and legs up. Rock like a rocking chair. Ultimate core-spine integration."
+    },
+    {
+        "name": "Wrestler’s Bridge (Gentle)",
+        "tool": "Bodyweight",
+        "desc": "Lie on back. Lift hips. Walk shoulders under. Only use head for balance if advanced."
+    },
+    {
+        "name": "Archer’s Lat Pull",
+        "tool": "Wall",
+        "desc": "One hand on wall. Rotate body away. Breathe into the side of the ribcage."
+    },
+    {
+        "name": "Equestrian Inner Thigh Reset",
+        "tool": "Bodyweight",
+        "desc": "Butterfly stretch. Use elbows to gently pry knees toward the floor."
+    },
+    {
+        "name": "Cricketer's Side Bend",
+        "tool": "Bodyweight",
+        "desc": "Reach one hand down to the knee, other hand over head. Hits the obliques used in bowling."
+    },
+    {
+        "name": "Mountain Biker's Wrist Shake",
+        "tool": "Bodyweight",
+        "desc": "Vigorously shake wrists for 30s. Resets the nervous system after 'arm pump' vibration."
+    },
+    {
+        "name": "Lacrosse Player's Forearm Roll",
+        "tool": "Stick",
+        "desc": "Use your stick to roll out the top of your forearm. Relieves grip fatigue."
+    },
+    {
+        "name": "Fencer’s Lunge Reach",
+        "tool": "Bodyweight",
+        "desc": "Extremely long lunge. Reach lead arm forward and trail arm back. Stretch the 'line'."
+    },
+    {
+        "name": "Quaterback’s T-Spine Twist",
+        "tool": "Floor",
+        "desc": "On all fours. One hand behind head. Touch elbow to elbow, then rotate to sky."
+    },
+    {
+        "name": "Olympic Lifter's Ankle Rock",
+        "tool": "Bodyweight",
+        "desc": "Bottom of squat. Lean all your weight onto one knee to force ankle flexion."
+    },
+    {
+        "name": "Figure Skater’s Spiral Stretch",
+        "tool": "Bodyweight",
+        "desc": "Balance on one leg. Lift back leg. Rotate torso toward the standing leg."
+    },
+    {
+        "name": "Badminton Lunging Scoop",
+        "tool": "Bodyweight",
+        "desc": "Step into a deep diagonal lunge. Reach for the floor with a flat back."
+    },
+    {
+        "name": "Sailor’s Core Sway",
+        "tool": "Bodyweight",
+        "desc": "Stand wide. Shift weight side to side while keeping head level. Mimic moving deck."
+    },
+    {
+        "name": "Softball Pitcher’s Circle",
+        "tool": "Bodyweight",
+        "desc": "Full 360-degree arm rotation. Keep the palm facing away at the top."
+    },
+    {
+        "name": "Cheerleader’s Pike Stretch",
+        "tool": "Bodyweight",
+        "desc": "Sit, legs straight. Reach for toes. Pull your belly button toward your thighs."
+    },
+    {
+        "name": "Drummer's Ankle Tap",
+        "tool": "Bodyweight",
+        "desc": "While sitting, tap your toes as fast as possible for 60s. Prehab for the kick drum."
+    },
+    {
+        "name": "Chef’s Wrist Flexion",
+        "tool": "Bodyweight",
+        "desc": "Backs of hands together in front of chest. Drop elbows. Stretches the top of the wrist."
+    },
+    {
+        "name": "Writer’s Finger Extension",
+        "tool": "Bodyweight",
+        "desc": "Press palms together in prayer position. Peel them apart except for the fingertips."
+    },
+    {
+        "name": "Cyclist's Quad Smash",
+        "tool": "Foam Roller",
+        "desc": "Roll from hip to knee. Spend extra time just above the kneecap."
+    },
+    {
+        "name": "Runner's IT Band Release",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball on the side of the hip. Move your leg back and forth like a windshield wiper."
+    },
+    {
+        "name": "Lifter's Pec Minor Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball against wall. Place it in the 'notch' below your collarbone. Lean in."
+    },
+    {
+        "name": "Golfer's Glute Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Sit on the ball. Find the meat of the glute. Rotate the knee in and out."
+    },
+    {
+        "name": "Swimmer's Lat Roll",
+        "tool": "Foam Roller",
+        "desc": "Side-lying. Roller in armpit. Roll slowly toward the ribs."
+    },
+    {
+        "name": "Hiker's Arch Roll",
+        "tool": "Lacrosse Ball",
+        "desc": "Stand on the ball. Roll from the heel to the base of the toes."
+    },
+    {
+        "name": "Climber's Forearm Roll",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball on a table. Press your forearm into it and move in small circles."
+    },
+    {
+        "name": "Tennis Player's Calf Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball under calf while sitting. Move your foot in large circles."
+    },
+    {
+        "name": "Soccer Player's Hip Flexor Roll",
+        "tool": "Lacrosse Ball",
+        "desc": "Lie face down. Ball just inside the hip bone. Breathe and sink."
+    },
+    {
+        "name": "Basketball Player's Shin Roll",
+        "tool": "Foam Roller",
+        "desc": "All fours. Roller under shins. Roll from ankle to below the knee."
+    },
+    {
+        "name": "Weightlifter's Tricep Smash",
+        "tool": "Barbell",
+        "desc": "Place tricep on a barbell. Move your arm from straight to bent."
+    },
+    {
+        "name": "Boxer's Upper Trap Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball between your traps and a wall. Lean in and shrug your shoulder."
+    },
+    {
+        "name": "Rower's Lower Back Roll",
+        "tool": "Foam Roller",
+        "desc": "Roll the lower back gently. Keep core tight. Support with your hands."
+    },
+    {
+        "name": "Hockey Player's Adductor Smash",
+        "tool": "Foam Roller",
+        "desc": "Roller parallel to your body. Place inner thigh on it and roll."
+    },
+    {
+        "name": "Volleyballer's Rotator Cuff Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Lie on side. Ball behind the shoulder blade. Move arm up and down."
+    },
+    {
+        "name": "Skier's Tibialis Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball on the outside of the shin bone. Lean your weight into it."
+    },
+    {
+        "name": "Gamer's Neck Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball at the base of the skull. Lie down and gently nod your head."
+    },
+    {
+        "name": "Surfer's Rib Smash",
+        "tool": "Foam Roller",
+        "desc": "Roll the side of your ribcage. Breathe deeply as you move."
+    },
+    {
+        "name": "Wrestler's Ear/Jaw Release",
+        "tool": "Bodyweight",
+        "desc": "Gently massage the jaw hinge with your fingers. Open and close your mouth."
+    },
+    {
+        "name": "Crossfitter's Glute Med Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball on the high, outer side of the glute. Lean and breathe."
+    },
+    {
+        "name": "Runner's Tibial Posterior Stretch",
+        "tool": "Bodyweight",
+        "desc": "Sit on heels. Turn heels out slightly. Stretches the deep calf."
+    },
+    {
+        "name": "Cyclist's Hip Extension",
+        "tool": "Bench",
+        "desc": "One foot on bench behind you. Drop into a lunge. Reach arms back."
+    },
+    {
+        "name": "Lifter's Scapular Pushup",
+        "tool": "Floor",
+        "desc": "Plank position. Move only your shoulder blades together and apart."
+    },
+    {
+        "name": "Golfer's Lead Arm Stretch",
+        "tool": "Bodyweight",
+        "desc": "Pull lead arm across chest. Use other arm to pull it tight. Rotate torso."
+    },
+    {
+        "name": "Swimmer's Doorway Y-Stretch",
+        "tool": "Door Frame",
+        "desc": "Hands high on frame in a Y. Lean through to stretch lats/chest."
+    },
+    {
+        "name": "Hiker's Downward Dog",
+        "tool": "Floor",
+        "desc": "Hips high. Drive heels down. Focus on stretching the entire back chain."
+    },
+    {
+        "name": "Climber's Finger Curl Stretch",
+        "tool": "Bodyweight",
+        "desc": "Fingertips together. Push them against each other until fingers are flat."
+    },
+    {
+        "name": "Tennis Player's Internal Shoulder Rotation",
+        "tool": "Wall",
+        "desc": "Back against wall. Arm at 90. Rotate hand down to touch wall."
+    },
+    {
+        "name": "Soccer Player's Quad/Hip Flow",
+        "tool": "Bodyweight",
+        "desc": "Lunge forward, then sit back into a hamstring stretch. Flow 5 times."
+    },
+    {
+        "name": "Basketball Player's Ankle Eversion",
+        "tool": "Band",
+        "desc": "Band around foot. Pull foot outward against resistance. Strengthens ankles."
+    },
+    {
+        "name": "Weightlifter's Wrist Extension",
+        "tool": "Wall",
+        "desc": "Palms on wall, fingers down. Lean your weight into your hands."
+    },
+    {
+        "name": "Boxer's Neck Lateral Stretch",
+        "tool": "Bodyweight",
+        "desc": "Ear to shoulder. Use hand to gently add weight. Keep opposite shoulder down."
+    },
+    {
+        "name": "Rower's Hamstring Floss",
+        "tool": "Bodyweight",
+        "desc": "Lying on back. Hold thigh. Straighten and bend the knee 15 times."
+    },
+    {
+        "name": "Hockey Player's Glute Stretch",
+        "tool": "Chair",
+        "desc": "Ankle over knee. Lean forward. The classic 'pigeon' for skaters."
+    },
+    {
+        "name": "Volleyballer's Thoracic Reach",
+        "tool": "Floor",
+        "desc": "On all fours. Reach one arm under and through. Touch shoulder to floor."
+    },
+    {
+        "name": "Skier's Side Lunge Hold",
+        "tool": "Bodyweight",
+        "desc": "Hold a deep side lunge. Stay as low as possible for 30 seconds."
+    },
+    {
+        "name": "Gamer's Wrist Shake",
+        "tool": "Bodyweight",
+        "desc": "Shake hands as if trying to get water off them. 30 seconds."
+    },
+    {
+        "name": "Surfer's Cobra Stretch",
+        "tool": "Floor",
+        "desc": "Lie on stomach. Push up. Look over one shoulder, then the other."
+    },
+    {
+        "name": "Wrestler's Hip Switch",
+        "tool": "Floor",
+        "desc": "Sit on floor, knees bent. Drop both knees to one side, then the other."
+    },
+    {
+        "name": "Crossfitter's Wall Ball Stretch",
+        "tool": "Wall",
+        "desc": "Hands high on wall. Lean chest in. Stretches shoulders for overhead work."
+    },
+    {
+        "name": "Runner's Big Toe Stretch",
+        "tool": "Floor",
+        "desc": "Kneel with toes tucked. Make sure the big toe is vertical."
+    },
+    {
+        "name": "Cyclist's Chest Opener",
+        "tool": "Floor",
+        "desc": "Lie on back. Arms in a T. Let gravity open your chest."
+    },
+    {
+        "name": "Lifter's Elbow Smash",
+        "tool": "Lacrosse Ball",
+        "desc": "Ball on the bicep/elbow junction. Bend and straighten arm."
+    },
+    {
+        "name": "Golfer's Neck Rotation",
+        "tool": "Bodyweight",
+        "desc": "Look as far left as possible. Then as far right as possible. Slow."
+    },
+    {
+        "name": "Swimmer's Ankle Extension",
+        "tool": "Floor",
+        "desc": "Sit on your heels. Lift your knees slightly to stretch the tops of feet."
+    },
+    {
+        "name": "Hiker's Hip Bridge",
+        "tool": "Floor",
+        "desc": "Lie on back. Lift hips. Squeeze glutes. Resets the hips after a climb."
+    },
+    {
+        "name": "Climber's Reverse Finger Curl",
+        "tool": "Bodyweight",
+        "desc": "Touch thumb to each fingertip. Then flick them open wide."
+    },
+    {
+        "name": "Tennis Player's Forearm Glide",
+        "tool": "Bodyweight",
+        "desc": "Elbow straight. Hand down. Use other hand to push. Relieves 'tennis elbow'."
+    },
+    {
+        "name": "Soccer Player's Calf Pump",
+        "tool": "Wall",
+        "desc": "Hands on wall. One foot back. Pump the heel up and down 20 times."
+    },
+    {
+        "name": "Basketball Player's Lateral Ankle Hold",
+        "tool": "Bodyweight",
+        "desc": "Stand on one leg. Try to keep your foot perfectly flat for 60s."
+    }
+]
